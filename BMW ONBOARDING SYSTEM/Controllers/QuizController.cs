@@ -159,6 +159,76 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
             return quiz;
         }
 
+        [HttpPost("Post/{courseid}/{onboarderid}/{quizId}")]
+
+        [Route("[action]/{courseid}/{onboarderid}/{quizId}")]
+        [HttpPost]
+        public ActionResult<GetQuizDetailsDto> SubmitQuiz(int courseid,int onboarderid,int quizId,[FromBody] SubmitQuizDto[] submitQuizDtos)
+        {
+
+            var message = "";
+            if (!ModelState.IsValid)
+            {
+                message = "Something went wrong on your side.";
+                return BadRequest(new { message });
+            }
+            var count = 0;
+            foreach(var quizAnswer in submitQuizDtos)
+            {
+                var option = _context.QuestionAnswerOptions.Where(x => x.Id == quizAnswer.QuestionId).FirstOrDefault();
+                if (option.IsOptionAnswer)
+                {
+                    count += 1;
+                }
+
+            }
+
+            var percentage = ((submitQuizDtos.Length)) / 2;
+            var percentToReturn = ((count) / (submitQuizDtos.Length)) * 100;
+            //assigned badge 1 which will be bronze you have just passed
+            if (count > percentage && count< submitQuizDtos.Length)
+            {
+                var onboarderAchivement = new Achievement()
+                {
+                    CourseId = courseid,
+                    OnboarderId = onboarderid,
+                    MarkAchieved = count,
+                    AchievementDate = DateTime.Now,
+                    AchievementTypeId = 1,
+                    QuizId = quizId
+
+                };
+  
+
+                _context.Achievement.Add(onboarderAchivement);
+                _context.SaveChanges();
+
+                return Ok(percentToReturn);
+            }
+            else if(count == submitQuizDtos.Length)
+            {
+                var onboarderAchivement = new Achievement()
+                {
+                    CourseId = courseid,
+                    OnboarderId = onboarderid,
+                    MarkAchieved = count,
+                    AchievementDate = DateTime.Now,
+                    AchievementTypeId = 1,
+                    QuizId = quizId
+
+                };
+
+
+                _context.Achievement.Add(onboarderAchivement);
+                _context.SaveChanges();
+
+                return Ok(percentToReturn);
+            }
+
+            return BadRequest("Sorry we could not capture achievement");
+         
+        }
+
 
         //public static void Shuffle<T>(IList<T> list)
         //{
