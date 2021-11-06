@@ -1,0 +1,36 @@
+<div class="container">
+
+  <h2>Assign User Role</h2>
+  
+      <form [formGroup]="assiagnUserRoleForm">
+
+        <div class="form-group position">
+          <h4>Select User</h4>
+          <mat-form-field appearance="fill">
+            <mat-label>User</mat-label>
+            <mat-select formControlName="user">
+              <mat-option *ngFor="let item of user" [value]="item.userId" >
+                {{item.userId}} - {{item.username}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </div>
+
+        <div class="form-group position">
+          <h4>Select User Role</h4>
+          <mat-form-field appearance="fill">
+            <mat-label>User Role</mat-label>
+            <mat-select formControlName="user_role">
+              <mat-option *ngFor="let item of user_role" [value]="item.userRoleId" >
+                {{item.userRoleName}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </div>
+
+        <div class="form-group">
+          <button class="btn btn-success"  (click)="assign()">Submit</button>
+        </div>
+      </form>
+
+</div>

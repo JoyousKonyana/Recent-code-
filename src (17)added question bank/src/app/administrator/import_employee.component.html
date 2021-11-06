@@ -1,0 +1,76 @@
+
+
+<p></p>
+
+<h1>Import Empolyee</h1>
+
+<div class="container">
+  
+<div class="card">
+	<div class="card-header">
+		Upload csv to read
+	</div>
+	<div class="card-body">
+
+		<input type="file" #csvReader name="Upload CSV" id="txtFileUpload" (change)="uploadListener($event)" accept=".csv" />
+
+	</div>
+</div>
+
+<a href="javascript:;" *ngIf="records.length > 0" (click)="getJsonData()" class="btn btn-primary">Read Data </a>
+
+<a href="javascript:;" *ngIf="records.length > 0" (click)="fileReset()" class="btn btn-primary">Reset </a> 
+
+<br />
+
+<button (click)="pushData()" class="btn btn-warning">Push Data</button>
+
+<hr>
+
+{{jsondatadisplay}}
+<table class="table"  *ngIf="records.length > 0">
+	<thead class="thead-dark" >
+		<tr>
+			<th scope="col">First Name</th>
+			<th scope="col">Middle Name</th>
+			<th scope="col">Last Name</th>
+			<th scope="col">Email</th>
+			<th scope="col">ID Number</th>
+			<th scope="col">Contact Number</th>
+			<th scope="col">First Name</th>
+			<th scope="col">ID Number</th>
+			<th scope="col">Contact Number</th>
+			<th scope="col">Title</th>
+			<th scope="col">Job Title</th>
+			<th scope="col">Surburb</th>
+			<th scope="col">Province</th>
+			<th scope="col">City</th>
+			<th scope="col">Country</th>
+			<th scope="col">Street Number</th>
+			<th scope="col">Street Name</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr *ngFor="let record of records;let i = index;">
+			<td>{{record.DepartmentId}}</td>
+			<td>{{record.UserRoleID}}</td>
+			<td>{{record.GenderId}}</td>
+			<td>{{record.FirstName}}</td>
+			<td>{{record.MiddleName}}</td>
+			<td>{{record.LastName}}</td>
+			<td>{{record.EmailAddress}}</td>
+			<td>{{record.Idnumber}}</td>
+			<td>{{record.ContactNumber}}</td>
+			<td>{{record.EmployeeJobTitle}}</td>
+			<td>{{record.TitleId}}</td>
+			<td>{{record.SuburbId}}</td>
+			<td>{{record.ProvinceId}}</td>
+			<td>{{record.CityId}}</td>
+			<td>{{record.CountryId}}</td>
+			<td>{{record.StreetNumber}}</td>
+			<td>{{record.StreetName}}</td>
+		</tr>
+
+	</tbody>
+</table>
+</div>

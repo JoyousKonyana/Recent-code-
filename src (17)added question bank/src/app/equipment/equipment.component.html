@@ -1,0 +1,261 @@
+
+<div class="AddEmployeeTitleContainer">
+<div class="addEmployeeTitleContainer">
+<div>
+  Equipment
+</div>
+<div class="btn btn-link" (click)="testData()">Populate Data</div>
+<br/>
+<div class="btn btn-dark" (click)="addNewEquipmentBtn()">
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-circle-fill" viewBox="0 0 16 16">
+    <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v3h-3a.5.5 0 0 0 0 1h3v3a.5.5 0 0 0 1 0v-3h3a.5.5 0 0 0 0-1h-3v-3z"/>
+  </svg>
+Register Equipment</div>
+<br/>
+</div>
+<div class="addEmployeeBtnContainer">
+</div>
+</div>
+
+<style>
+  .hide {
+    display: none;
+  }  
+  .myDIV:hover + .hide {
+    display: block;
+    color: green;
+  }
+  </style>
+  <div class="myDIV">
+    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-question-square-fill" viewBox="0 0 16 16">
+      <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.496 6.033a.237.237 0 0 1-.24-.247C5.35 4.091 6.737 3.5 8.005 3.5c1.396 0 2.672.73 2.672 2.24 0 1.08-.635 1.594-1.244 2.057-.737.559-1.01.768-1.01 1.486v.105a.25.25 0 0 1-.25.25h-.81a.25.25 0 0 1-.25-.246l-.004-.217c-.038-.927.495-1.498 1.168-1.987.59-.444.965-.736.965-1.371 0-.825-.628-1.168-1.314-1.168-.803 0-1.253.478-1.342 1.134-.018.137-.128.25-.266.25h-.825zm2.325 6.443c-.584 0-1.009-.394-1.009-.927 0-.552.425-.94 1.01-.94.609 0 1.028.388 1.028.94 0 .533-.42.927-1.029.927z"/>
+    </svg>
+    Help
+  </div>
+  <div class="hide">
+    This is the Equipment page. You will be able to Register Equipments in the system, by clicking the "Register Equipment" button. You can view all the Equipments that are registered in the system by viewing the table below. You can Update or Delete already registered Equipments in the system.
+  </div>
+
+<hr>
+
+<div *ngIf="newEquipmentClicked">
+<div class="container">
+  <h1>Register Equipment</h1>
+
+<form [formGroup]="registerEquipmentForm">
+
+<div class="form-group position">
+  <h4>Select Equipment Type</h4>
+  <mat-form-field appearance="fill">
+    <mat-label>Equipment Type</mat-label>
+    <mat-select formControlName="equipment_type">
+      <mat-option *ngFor="let item of types" [value]="item.equipmentTypeId" >
+        {{item.equipmentTypeDescription}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>
+
+<p></p>
+
+<div class="form-group position">
+  <h4>Select Equipment Brand</h4>
+  <mat-form-field appearance="fill">
+    <mat-label>Equipment Brand</mat-label>
+    <mat-select formControlName="equipment_brand">
+      <mat-option *ngFor="let item of brands" [value]="item.equipmentBrandId" >
+        {{item.equipmentBrandName}}
+      </mat-option>
+    </mat-select>
+  </mat-form-field>
+</div>
+
+<p></p>
+
+
+  <div class="form-group">
+    <label>Enter Equipment Trade In Deadline:</label>
+    <input type="date"
+          min="{{this.date}}"
+           class="form-control input"
+           id="EquipmentTradeInDeadline"
+           name="EquipmentTradeInDeadline"
+           formControlName="EquipmentTradeInDeadline"
+           placeholder="Equipment Trade-In Deadline">
+  </div>
+
+  <p></p>
+
+  <div class="form-group">
+    <label>Equipment Serial Number</label>
+  <input type="number"
+         class="form-control input"
+         id="EquipmentSerialNumber"
+         name="EquipmentSerialNumber"
+         formControlName="EquipmentSerialNumber"
+         placeholder="01233345">
+</div>
+
+<p></p>
+
+  <div class="">
+    <button type="submit" class="btn btn-success" (click)="addEquipment()">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-circle-fill" viewBox="0 0 16 16">
+        <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v3h-3a.5.5 0 0 0 0 1h3v3a.5.5 0 0 0 1 0v-3h3a.5.5 0 0 0 0-1h-3v-3z"/>
+      </svg>
+    SAVE</button>
+  </div>
+</form>
+</div>
+<hr>
+</div>
+
+<br/>
+
+<div *ngIf="newReport_QueryClicked">
+<div class="formWrapper">
+  <h5>Report Query</h5>
+  <a class="btn btn-link" (click)="CloseReport_QueryBtn()">X</a>
+<form>
+<div class="form-group name">
+  <label>Enter Equipment Query Description:</label>
+  <input type="text" 
+         class="form-control"
+         id="EquipmentQueryDescription"
+         name="EquipmentQueryDescription"
+         [(ngModel)]="model4.EquipmentQueryDescription"
+         placeholder="Broken Ear Plugs">
+</div>
+ <div class="form-group position">
+  <label>Enter Equipment Query Date:</label>
+   <input type="date"
+         class="form-control"
+         id="description"
+         name="description"
+         [(ngModel)]="model4.EquipmentQueryDate">
+</div>
+<button class="btn btn-success" type="submit" (click)="updateReport_Query()">Report Query</button>
+</form>
+</div>
+</div>
+
+<br/>
+
+<div *ngIf="updateEquipmentClicked">
+<div class="container">
+<h1 class="">Update Equipment</h1>
+<form [formGroup]="updateEquipmentForm">
+
+  <div class="form-group position">
+    <h4>Select Equipment Type</h4>
+    <mat-form-field appearance="fill">
+      <mat-label>Equipment Type</mat-label>
+      <mat-select formControlName="equipment_type">
+        <mat-option *ngFor="let item of types" [value]="item.equipmentTypeId" >
+          {{item.equipmentTypeDescription}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+  </div>
+  
+  <p></p>
+  
+  <div class="form-group position">
+    <h4>Select Equipment Brand</h4>
+    <mat-form-field appearance="fill">
+      <mat-label>Equipment Brand</mat-label>
+      <mat-select formControlName="equipment_brand">
+        <mat-option *ngFor="let item of brands" [value]="item.equipmentBrandId" >
+          {{item.equipmentBrandName}}
+        </mat-option>
+      </mat-select>
+    </mat-form-field>
+  </div>
+
+<p></p>
+
+  <div class="form-group">
+    <label>Enter Equipment Trade In Deadline</label>
+    <input type="date"
+          min="{{this.date}}"
+           class="form-control input"
+           id="EquipmentTradeInDeadline"
+           name="EquipmentTradeInDeadline"
+           [(ngModel)]="model2.EquipmentTradeInDeadline"
+           placeholder="Equipment Trade-In Deadline">
+  </div>
+
+  <p></p>
+
+  <div class="form-group">
+    <label>Equipment Serial Number</label>
+  <input type="number"
+         class="form-control input"
+         id="EquipmentSerialNumber"
+         name="EquipmentSerialNumber"
+         [(ngModel)]="model2.EquipmentSerialNumber"
+         placeholder="0123345">
+</div>
+
+<p></p>
+
+<button class="btn btn-success" type="submit" (click)="updateEquipment()">
+  <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+      <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+      <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
+  </svg>
+Update</button>
+</form>
+</div>
+<hr>
+</div>
+
+<hr>
+
+<div class="search-hero container">
+<input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="&#61442;  Start searching for a equipment">
+</div>
+
+<div class="tableWrapper">
+<table class="table table-striped">
+<thead>
+<tr>
+  <th class="col">Equipment ID</th>
+  <th class="col">Serial Number</th>
+  <th class="col">Equipment Type</th>
+  <th class="col">Equipment Brand</th>
+  <th class="col">Trade-In Deadline</th>
+  <th class="col">Trade-In Status</th>
+  <th class="col">Action</th>
+</tr>
+</thead>
+<tbody>
+
+    <tr *ngFor="let items of equipment | filter:searchText; let i = index">
+      <td>{{items.equipmentId}}</td>
+      <td>{{items.equipmentSerialNumber}}</td>
+      <td>{{items.equipmentType.equipmentTypeDescription}}</td>
+      <td>{{items.equipmentBrand.equipmentBrandName}}</td>
+      <td>{{items.equipmentTradeInDeadline}}</td>
+      <td>{{items.equipmentTradeInStatus}}</td>
+      <td>
+        <button class="btn btn-primary" (click)="editEquipment(i)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+          <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+          <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
+          </svg>
+        </button>
+        <button class="btn btn-danger" (click)="deleteEquipment(items.equipmentId)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
+          <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0z"/>
+          </svg>
+        </button>
+        <button class="btn btn-warning" (click)="editReport_Query(i)">Report Query</button>
+      </td>
+    </tr>
+
+</tbody>
+</table>
+</div>
+
+<p></p>

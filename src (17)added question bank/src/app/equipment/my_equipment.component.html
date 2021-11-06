@@ -1,0 +1,72 @@
+
+
+<div class="AddEmployeeTitleContainer">
+<div class="addEmployeeTitleContainer">
+  <div>
+    My Equipment
+  </div>
+</div>
+<div class="addEmployeeBtnContainer">
+</div>
+</div>
+
+<div *ngIf="newReport_QueryClicked">
+<div class="formWrapper">
+  <h5>Report Query</h5>
+  <a class="btn btn-link" (click)="CloseReport_QueryBtn()">X</a>
+<form>
+<div class="form-group name">
+  <label>Enter Equipment Query Description</label>
+  <input type="text"
+         class="form-control"
+         id="description"
+         name="description"
+         [(ngModel)]="model2.EquipmentQueryDescription"
+         placeholder="Description..">
+</div>
+ <div class="form-group position">
+  <label>Enter Equipment Query Date</label>
+   <input type="date"
+         class="form-control"
+         id="date"
+         name="date"
+         [(ngModel)]="model2.EquipmentQueryDate">
+</div>
+<button class="btn btn-success" type="submit" (click)="updateReport_Query()">Report Query</button>
+</form>
+</div>
+</div>
+
+<br/>
+
+<div class="tableWrapper">
+<table class="table table-striped">
+<thead>
+  <tr>
+    <th class="col">Equipment ID</th>
+    <th class="col">Check Out Date</th>
+    <th class="col">Check Out Condition</th>
+    <th class="col">Check In Date</th>
+    <th class="col">Check In Condition</th>
+    <th class="col">Action</th>
+  </tr>
+</thead>
+<tbody>
+  <tr *ngFor="let equipment of x; let i = index">
+    <td>{{equipment.equipmentId}}</td>
+    <td>{{equipment.equipmentCheckOutDate}}</td>
+    <td>{{equipment.EquipmentCheckOutCondition}}</td>
+    <td>{{equipment.equipmentCheckInDate}}</td>
+    <td>{{equipment.EquipmentCheckInCondition}}</td>
+    <td>
+    <div>
+      <label>Check Equipment: </label>
+      <input class="form-check-input" type="checkbox" id="checkboxNoLabel" value="" aria-label="...">
+    </div>
+    <button class="btn btn-danger" (click)="editReport_Query(equipment.equipmentId)">Report Query</button>
+    <button class="btn btn-info">Read More</button>
+    </td>
+  </tr>
+</tbody>
+</table>
+</div>

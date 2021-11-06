@@ -1,0 +1,32 @@
+<h1 class="container-fluid">Learning Content</h1>
+
+<div>
+  <form>
+    <label class="list-group-item">Archieve Lesson Content
+      <input id="checkBox" class="form-check-input" type="checkbox" (click)="updateItem($event)">
+    </label>
+
+
+    <label for="exampleFormControlTextarea1">Enter Content Description</label>
+    <div class="form-group name">
+      <textarea type="text" class="form-control" id="exampleFormControlTextarea1" rows="5" name="content"
+        [(ngModel)]="model.LessonContentDescription" placeholder="Lesson Content Description">
+    </textarea>
+    </div>
+
+    <p></p>
+
+    <div class="form-group">
+      <label>Enter Lesson Outcome Link Content:</label>
+      <input type="text" class="form-control input" id="name" name="name" [(ngModel)]="model.LessonContent1"
+        placeholder="https://www.youtube.com/">
+    </div>
+
+    <p></p>
+
+    <div class="submitBtnContainer">
+      <button type="submit" class="btn btn-success" (click)="submit()">SAVE</button>
+    </div>
+
+  </form>
+</div>

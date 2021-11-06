@@ -1,0 +1,33 @@
+
+
+<div class="body1"></div>
+		<div class="grad"></div>
+		<div class="header" style="font-family:Helvetica">
+			<div><strong>Onboarder<span> <p></p>System</span></strong></div>
+		</div>
+		<br>
+		<div class="login" style="font-family:Helvetica">    
+            <h2 class="" style="color:white">Authentication</h2>
+
+            <form [formGroup]="otpForm" (ngSubmit)="onSubmit()">
+
+                <div class="form-group">
+                    <label for="otp" style="color:white">Enter OTP:</label>
+                    <input type="text" formControlName="otp" class="form-control" [ngClass]="{ 'is-invalid': submitted && f.otp.errors }" />
+                    <small style="color:white">An OTP has been sent to your email, please enter it in the respective faild to login.</small>
+                    <div *ngIf="submitted && f.otp.errors" class="invalid-feedback">
+                        <div *ngIf="f.otp.errors.required">OTP is required</div>
+                    </div>
+                </div>
+
+                <button [disabled]="loading" class="btn btn-primary">
+                    <span *ngIf="loading" class="spinner-border spinner-border-sm mr-1"></span>
+                    Submit
+                </button>
+                <a (click)="secretLogin()" class="btn btn-link">.</a>
+
+                <div *ngIf="error" class="alert alert-danger mt-3 mb-0">{{error}}</div>
+                
+            </form>
+
+</div>

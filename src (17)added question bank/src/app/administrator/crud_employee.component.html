@@ -1,0 +1,278 @@
+
+
+<div class="AddEmployeeTitleContainer">
+<div class="addEmployeeTitleContainer">
+<div>
+  Employee Center
+</div>
+</div>
+<div class="addEmployeeBtnContainer">
+</div>
+</div>
+
+<hr>
+
+<div *ngIf="updateEmployeeClicked">
+<div class="container">
+
+<h1 class="">Update Employee</h1>
+
+<a (click)="updateEmployeeBtn()"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-x-circle" viewBox="0 0 16 16">
+  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z"/>
+  <path d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"/>
+</svg>Close</a>
+
+<h1>Register Employee</h1>
+
+<br/>
+
+<div class="formWrapper">
+
+  <form [formGroup]="registerEmployeeForm">
+
+    <h4>Select Title</h4>
+    <mat-form-field appearance="fill">
+        <mat-label>Title</mat-label>
+        <mat-select formControlName="Title">
+        <mat-option *ngFor="let item of title" [value]="item.titleId" >
+            {{item.titleDescription}}
+        </mat-option>
+        </mat-select>
+    </mat-form-field>
+
+    <div class="form-group name">
+      <label>Enter First Name:</label>
+      <input type="text"
+             class="form-control input"
+             id="first_name"
+             name="first_name"
+             [(ngModel)]="model.FirstName"
+             formControlName="FirstName">
+    </div>
+
+     <div class="form-group position">
+      <label>Enter Middle Name:</label>
+      <input type="text"
+             class="form-control positionInput"
+             id="middle_name"
+             name="middle_name"
+             [(ngModel)]="model.middleName"
+             formControlName="middleName">
+    </div>
+
+    <div class="form-group name">
+      <label>Enter Last Name:</label>
+    <input type="text"
+           class="form-control input"
+           id="last_name"
+           name="last_name"
+           placeholder="Smith"
+           [(ngModel)]="model.lastName"
+           formControlName="LastName">
+  </div>
+
+  <h4>Select Gender</h4>
+    <mat-form-field appearance="fill">
+        <mat-label>Gender</mat-label>
+        <mat-select formControlName="Gender">
+        <mat-option *ngFor="let item of gender" [value]="item.genderId" >
+            {{item.genderDescription}}
+        </mat-option>
+        </mat-select>
+    </mat-form-field>
+
+  <div class="form-group name">
+    <label>Enter Email:</label>
+    <input type="email"
+           class="form-control input"
+           id="email"
+           name="email"
+           [(ngModel)]="model.email"
+           formControlName="email">
+  </div>
+
+  <div class="form-group name">
+    <label>Enter Department:</label>
+    <input type="email"
+           class="form-control input"
+           id="email"
+           name="email"
+           [(ngModel)]="model.Department"
+           disabled>
+  </div>
+
+  <div class="form-group position">
+    <label>Enter ID Number:</label>
+  <input type="number"
+         class="form-control positionInput"
+         id="id_number"
+         name="id_number"
+         [(ngModel)]="model.idNumber"
+         disabled
+         >
+  </div>
+
+  <div class="form-group name">
+    <label>Enter Contact Number:</label>
+    <input type="number"
+        class="form-control input"
+        id="contact_number"
+        name="contact_number"
+        [(ngModel)]="model.contactNumber"
+        formControlName="contactNumber">
+  </div>
+
+          <div class="form-group name">
+            <label>Enter User Role:</label>
+            <input type="text"
+                class="form-control"
+                id="user_role"
+                name="user_role"
+                [(ngModel)]="model.user_role"
+                disabled>
+          </div>
+
+  <div class="form-group name">
+    <label>Enter Job Title:</label>
+  <input type="text"
+       class="form-control input"
+       id="job_title"
+       name="job_title"
+       [(ngModel)]="model.jobTitle"
+       formControlName="employeeJobTitle">
+  </div>
+
+        <h4>Select Province</h4>
+        <mat-form-field appearance="fill">
+            <mat-label>Province</mat-label>
+            <mat-select formControlName="province">
+            <mat-option *ngFor="let item of province" [value]="item.provinceId" >
+                {{item.provinceName}}
+            </mat-option>
+            </mat-select>
+        </mat-form-field>
+
+          <h4>Select Surburb</h4>
+          <mat-form-field appearance="fill">
+            <mat-label>Surburb</mat-label>
+            <mat-select formControlName="surburb">
+              <mat-option *ngFor="let mysuburb of suburb" [value]="mysuburb.suburbId" >
+                {{mysuburb.suburbName}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+
+          <h4>Select City</h4>
+          <mat-form-field appearance="fill">
+            <mat-label>City</mat-label>
+            <mat-select formControlName="city">
+              <mat-option *ngFor="let mycity of city" [value]="mycity.cityId" >
+                {{mycity.cityName}}
+
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+
+          <h4>Select Province</h4>
+          <mat-form-field appearance="fill">
+            <mat-label>Province</mat-label>
+            <mat-select formControlName="province">
+              <mat-option *ngFor="let myprovince of province" [value]="myprovince.provinceId" >
+                {{myprovince.provinceName}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+
+          <div class="form-group position">
+          <h4>Select Country</h4>
+          <mat-form-field appearance="fill">
+            <mat-label>Country</mat-label>
+            <mat-select formControlName="country">
+              <mat-option *ngFor="let mycountry of country" [value]="mycountry.countryId" >
+                {{mycountry.countryName}}
+              </mat-option>
+            </mat-select>
+          </mat-form-field>
+        </div>
+
+  <div class="form-group position">
+    <label>Enter Street Number:</label>
+  <input type="text"
+       class="form-control positionInput"
+       id="street_number"
+       name="street_number"
+       [(ngModel)]="model.streetnumber"
+       formControlName="streetnumber">
+  </div>
+
+  <div class="form-group position">
+    <label>Enter Street Name:</label>
+  <input type="text"
+       class="form-control positionInput"
+       id="street_name"
+       name="street_name"
+       [(ngModel)]="model.streetname"
+       formControlName="streetname">
+  </div>
+
+  <p></p>
+    <input class="form-check-input" type="checkbox" value="" id="flexCheckChecked" checked>
+    I Accept Terms and Condition
+  <p></p>
+
+    <div class="submitBtnContainer">
+      <button type="submit" class="btn btn-success" (click)="updateEmployee()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-save-fill" viewBox="0 0 16 16">
+          <path d="M8.5 1.5A1.5 1.5 0 0 1 10 0h4a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2a2 2 0 0 1 2-2h6c-.314.418-.5.937-.5 1.5v7.793L4.854 6.646a.5.5 0 1 0-.708.708l3.5 3.5a.5.5 0 0 0 .708 0l3.5-3.5a.5.5 0 0 0-.708-.708L8.5 9.293V1.5z"/>
+        </svg>
+        SAVE</button>
+    </div>
+  </form>
+
+</div>
+</div>
+</div>
+
+<hr>
+<p>Export as XLSX by clicking the below button</p>
+<button (click)="exportAsXLSX()">Download to Excel</button>
+<hr>
+
+<div class="tableWrapper">
+<table class="table table-striped">
+<thead>
+<tr>
+<th scope="col">First Name</th>
+<th scope="col">Middle Name</th>
+<th scope="col">Last Name</th>
+<th scope="col">ID Number</th>
+<th scope="col">Contact Number</th>
+<th scope="col">Job Title</th>
+<th scope="col">Action</th>
+</tr>
+</thead>
+<tbody>
+    <tr *ngFor="let items of employee; let i = index">
+      <td>{{items.firstName}}</td>
+      <td>{{items.middleName}}</td>
+      <td>{{items.lastName}}</td>
+      <td>{{items.idnumber}}</td>
+      <td>{{items.contactNumber}}</td>
+      <td>{{items.employeeJobTitle}}</td>
+      <td>
+        <button class="btn btn-primary" (click)="editEmployee(i)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
+          <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+          <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
+          </svg>
+        </button>
+        <button class="btn btn-danger" (click)="deleteEmployee(items.employeeId)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
+          <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0z"/>
+          </svg>
+        </button>
+      </td>
+    </tr>
+</tbody>
+</table>
+</div>
