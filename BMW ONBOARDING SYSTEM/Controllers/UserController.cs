@@ -564,7 +564,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
                 }
 
             };
-            MailAddress FromMail = new MailAddress("team14onboarding@gmail.com", "Admin");
+            MailAddress FromMail = new MailAddress("team14onboarding@gmail.com", "IT ZA HUB OTP INFORMATION");
             MailAddress ToEmail = new MailAddress(userEmail, "User");
             MailMessage Message = new MailMessage()
             {
