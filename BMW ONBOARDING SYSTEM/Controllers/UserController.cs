@@ -29,6 +29,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
         private readonly INF370DBContext _context;
         private readonly IUserRepository _userRepository;
         private readonly IUserRoleRepository _userRoleRepository;
+        private readonly IEmployeeRepository _employeeRepository;
         private readonly IOTPRepository _otpRepository;
         private readonly IMapper _mapper;
         private readonly AppSettings _appSettings;
@@ -38,11 +39,14 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
             IUserRepository userRepository,
              IOTPRepository otpRepository,
              IUserRoleRepository userRoleRepository,
+              IEmployeeRepository employeeRepository
+             ,
              IMapper mapper,
             IOptions<AppSettings> appSettings)
         {
             _context = context;
             _userRepository = userRepository;
+            _employeeRepository = employeeRepository;
             _otpRepository = otpRepository;
             _mapper = mapper;
             _appSettings = appSettings.Value;
@@ -53,17 +57,23 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
         [Route("[action]")]
         public async Task<ActionResult<User>> registerUser([FromBody] CreateUserViewModel model)
         {
+
+
             try
             {
+
                 var user = _mapper.Map<User>(model);
                 var randomPassword = CreateRandomPassword();
                 user.Password = hashPassword(randomPassword);
                 //user.UserRoleID = 1;
 
+
                 _userRepository.Add(user);
 
                 if (await _userRepository.SaveChangesAsync())
                 {
+                    //sendEmail(user, randomPassword);
+                    Employee employee = await _employeeRepository.GetEmployeeByID(user.UserId);
                     sendEmail(user, randomPassword);
                     //AuditLog auditLog = new AuditLog();
                     //auditLog.AuditLogDescription = "Registered user with  username" + ' ' + user.Username;
@@ -479,6 +489,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
 
                 if (await _userRepository.SaveChangesAsync())
                 {
+                    //Employee employee = await _employeeRepository.GetEmployeeByID(existinguser.UserId);
                     sendEmail(existinguser, randomPassword);
                     return Ok("Check your email for a new password");
                 }
@@ -494,6 +505,8 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
         }
         public void sendEmail(User user, string password)
         {
+            //var employee = await _employeeRepository.GetEmployeeByID(Convert.Touser.EmployeeId));
+            var m = "";
             SmtpClient Client = new SmtpClient()
             {
                 Host = "smtp.gmail.com",
@@ -508,7 +521,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
                 }
 
             };
-            MailAddress FromMail = new MailAddress("team14onboarding@gmail.com", "Admin");
+            MailAddress FromMail = new MailAddress("team14onboarding@gmail.com", "IT ZA HUB ONBOARDER LOG IN INFORMATION");
             MailAddress ToEmail = new MailAddress(user.Username, "User");
             MailMessage Message = new MailMessage()
             {
