@@ -29,6 +29,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
         private readonly INF370DBContext _context;
         private readonly IUserRepository _userRepository;
         private readonly IUserRoleRepository _userRoleRepository;
+        private readonly IOnboarderRepository _onboarderRepository;
         private readonly IEmployeeRepository _employeeRepository;
         private readonly IOTPRepository _otpRepository;
         private readonly IMapper _mapper;
@@ -39,6 +40,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
             IUserRepository userRepository,
              IOTPRepository otpRepository,
              IUserRoleRepository userRoleRepository,
+              IOnboarderRepository onboarderRepository,
               IEmployeeRepository employeeRepository
              ,
              IMapper mapper,
@@ -47,6 +49,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
             _context = context;
             _userRepository = userRepository;
             _employeeRepository = employeeRepository;
+            _onboarderRepository = onboarderRepository;
             _otpRepository = otpRepository;
             _mapper = mapper;
             _appSettings = appSettings.Value;
@@ -199,6 +202,9 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
                     };
                     var token = tokenHandler.CreateToken(tokenDescriptor);
                     var tokenString = tokenHandler.WriteToken(token);
+                    //get onboarderbyempid
+                    var onboarder = await _onboarderRepository.GetOnboarderbyEmpID(Convert.ToInt32(user.EmployeeId));
+                    
 
                     // return basic user info and authentication token
                     return Ok(new
@@ -207,7 +213,8 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
                         Username = user.Username,
                         employeeID = user.EmployeeId,
                         Token = tokenString,
-                        Userrole = user.UserRole.UserRoleName
+                        Userrole = user.UserRole.UserRoleName,
+                        Onboarderid = onboarder.OnboarderID
                     });
 
                 }
