@@ -106,6 +106,7 @@ namespace BMW_ONBOARDING_SYSTEM
             services.AddScoped<ILessonRepository, LessonRepository>();
             services.AddScoped<IOption, OptionRepository>();
             services.AddScoped<IEquipmentQueryStatusRepository, EquipmentQueryStatusRepository>();
+            services.AddScoped<IAchievementRepository, AchievementRepository>();
 
             //services.AddScoped<IQuestionBankRepository, QuestionBankRepository>();
 

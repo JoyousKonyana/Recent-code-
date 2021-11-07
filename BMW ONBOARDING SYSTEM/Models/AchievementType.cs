@@ -7,6 +7,11 @@ namespace BMW_ONBOARDING_SYSTEM.Models
 {
     public partial class AchievementType
     {
+
+        public AchievementType()
+        {
+            Achievement = new List<Achievement>();
+        }
         [Key]
         [Column("AchievementTypeID")]
         public int AchievementTypeId { get; set; }
@@ -18,5 +23,7 @@ namespace BMW_ONBOARDING_SYSTEM.Models
         [ForeignKey(nameof(BadgeId))]
         [InverseProperty("AchievementType")]
         public virtual Badge Badge { get; set; }
+
+        public virtual List<Achievement> Achievement { get; set; }
     }
 }
