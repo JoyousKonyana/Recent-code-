@@ -31,6 +31,8 @@ import {
   SS_EquipmentComponent,
   My_EquipmentComponent,
   EquipDashboardComponent,
+  QueryComponent,
+  Equipment_TypeComponent,
 
   //Charts
   TypeChartComponent,
@@ -119,7 +121,7 @@ import { GridModule } from '@progress/kendo-angular-grid';
 //Charts and graphs
 import { ChartsModule } from 'ng2-charts';
 import { CommonModule } from '@angular/common';
-import { NgxSpinnerModule } from 'ngx-spinner';
+//import { NgxSpinnerModule } from 'ngx-spinner';
 import { Question_BankComponent } from './course/question_bank/question_bank.component';
 import { MaterialModule } from './@material/material.module';;
 import { ManageBankQuestionsComponent } from './course/manage-bank-questions/manage-bank-questions.component'
@@ -186,6 +188,8 @@ import { ListCourseEnrollmentsComponent } from './course/list-course-enrollments
     SS_EquipmentComponent,
     My_EquipmentComponent,
     EquipDashboardComponent,
+    QueryComponent,
+    Equipment_TypeComponent,
     TypeChartComponent, //Chart
     BrandChartComponent, //Chart
 
@@ -222,7 +226,7 @@ import { ListCourseEnrollmentsComponent } from './course/list-course-enrollments
     ReactiveFormsModule,
     HttpClientModule,
     CommonModule,
-    NgxSpinnerModule,
+    //NgxSpinnerModule,
 
     //Material
     MaterialModule,

@@ -1,5 +1,5 @@
-import { Equipment_Type } from './../_models/equipment_type';
-import { EquipmentService } from './../_services/equipment.service';
+import { Equipment_QueryService } from './../_services/equipment_query.service';
+import { Query_Status } from './../_models/query_status';
 import { THIS_EXPR } from '@angular/compiler/src/output/output_ast';
 import { Component, OnInit } from '@angular/core';
 import { first } from 'rxjs/operators';
@@ -11,30 +11,30 @@ import { Router } from '@angular/router';
 import { ModalService } from '../_modal';
 
 @Component({
-  templateUrl: 'equipment_type.component.html',
+  templateUrl: 'query.component.html',
   styleUrls: ['./ss_equipment.component.css']
 })
 
-export class Equipment_TypeComponent implements OnInit {
-  equipment_type: any;
+export class QueryComponent implements OnInit {
+  query: any;
 
   searchText = '';
   item: any;
   date!: string;
   myValue = 0;
 
-  newEquipment_TypeClicked = false;
+  newQuery_StatusClicked = false;
 
   model: any = {};
   model2: any = {};
 
-  model3: Equipment_Type = {
-      EquipmentTypeId: 0,
-      EquipmentTypeDescription: ''
+  model3: Query_Status = {
+      EquipmentQueryStatusId: 0,
+      EquipmentQueryDescription: ''
   };
 
   constructor(
-    private equipmentService: EquipmentService,
+    private queryService: Equipment_QueryService,
     private alertService: AlertService,
     private router: Router,
   ) { }
@@ -45,11 +45,11 @@ export class Equipment_TypeComponent implements OnInit {
   }
 
   private loadAll() {
-    this.equipmentService.getAllEquipment_Type()
+    this.queryService.getAllQueryStatus()
       .pipe(first())
       .subscribe(
-        equipment_type => {
-          this.equipment_type = equipment_type;
+        query => {
+          this.query = query;
         },
         error => {
           this.alertService.error('Error, Data was unsuccesfully retrieved');
@@ -57,22 +57,22 @@ export class Equipment_TypeComponent implements OnInit {
       );
   }
 
-  addEquipment_Type() {
+  addQuery_Status() {
     if (Object.keys(this.model).length < 1) {
       this.alertService.error("Error, you have an empty feild");
-      this.newEquipment_TypeClicked = !this.newEquipment_TypeClicked;
+      this.newQuery_StatusClicked = !this.newQuery_StatusClicked;
       this.model = {};
     }
     else if ((Object.keys(this.model).length == 1)) {
-      this.model3.EquipmentTypeDescription = this.model.EquipmentTypeDescription;
+      this.model3.EquipmentQueryDescription = this.model.EquipmentQueryDescription;
 
-      this.equipmentService.createType(this.model3)
+      this.queryService.createQueryStatus(this.model3)
         .pipe(first())
         .subscribe(
           data => {
             this.alertService.success('Creation was successful', true);
             this.loadAll();
-            this.newEquipment_TypeClicked = !this.newEquipment_TypeClicked;
+            this.newQuery_StatusClicked = !this.newQuery_StatusClicked;
             this.model = {};
           },
           error => {
@@ -81,8 +81,8 @@ export class Equipment_TypeComponent implements OnInit {
     }
   }
 
-  deleteEquipment_Type(i: number) {
-    this.equipmentService.deleteType(i)
+  deleteQuery_Status(i: number) {
+    this.queryService.deleteQueryStatus(i)
       .pipe(first())
       .subscribe(
         data => {
@@ -94,20 +94,20 @@ export class Equipment_TypeComponent implements OnInit {
         });
   }
 
-  editEquipment_Type(editEquipment_TypeInfo: number) {
-    this.model2.CourseDescription = this.equipment_type[editEquipment_TypeInfo].courseDescription;
-    this.myValue = editEquipment_TypeInfo;
+  editQuery_Status(editQuery_StatusInfo: number) {
+    this.model2.EquipmentQueryDescription = this.query[editQuery_StatusInfo].equipmentQueryDescription;
+    this.myValue = editQuery_StatusInfo;
   }
 
-  updateEquipment_Type() {
-    let editEquipment_TypeInfo = this.myValue;
+  updateQuery_Status() {
+    let editQuery_StatusInfo = this.myValue;
 
-    for (let i = 0; i < this.equipment_type.length; i++) {
+    for (let i = 0; i < this.query.length; i++) {
 
-      if (i == editEquipment_TypeInfo) {
-        this.model3.EquipmentTypeDescription = this.model2.EquipmentTypeDescription;
+      if (i == editQuery_StatusInfo) {
+        this.model3.EquipmentQueryDescription = this.model2.EquipmentQueryDescription;
 
-        this.equipmentService.updateType(this.equipment_type[editEquipment_TypeInfo].EquipmentTypeId, this.model3)
+        this.queryService.updateQueryStatus(this.query[editQuery_StatusInfo].equipmentQueryStatusId , this.model3)
           .pipe(first())
           .subscribe(
             data => {
@@ -122,12 +122,8 @@ export class Equipment_TypeComponent implements OnInit {
     }
   }
 
-  addNewCourseBtn() {
-    this.newEquipment_TypeClicked = !this.newEquipment_TypeClicked;
-  }
-
-  onNavigateToCourseLessons(course:any){
-    this.router.navigate(['/lesson',course.courseID])
+  addNewQuery_StatusBtn() {
+    this.newQuery_StatusClicked = !this.newQuery_StatusClicked;
   }
 
 }

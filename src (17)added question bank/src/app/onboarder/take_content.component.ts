@@ -1,7 +1,6 @@
 import { Lesson_ContentService } from './../_services/lesson_conent.service';
 import { Learning_ContentComponent } from './../course/learning_content.component';
 import { Component } from '@angular/core';
-import { DomSanitizer, SafeResourceUrl } from '@angular/platform-browser';
 
 import { Router,ActivatedRoute } from '@angular/router';
 import { AlertService } from '../_services';
@@ -13,8 +12,8 @@ import { Lesson_Content } from '../_models';
 })
 
 export class Take_ContentComponent {
-  lesson_content: any = {};
-  content: any = {};
+  lesson_content: any;
+  content: any;
 
   id: any;
 
@@ -47,6 +46,8 @@ model: Lesson_Content = {
       } 
     );
 
+    this.content = this.lesson_content.filter((obj) => { return obj.lessonConentId == 2 } )
+
   }
 
     constructor(
@@ -56,12 +57,5 @@ model: Lesson_Content = {
       private lesson_contentService: Lesson_ContentService,
       
     ) {
-    }
-
-    get isNotArchieved() {
-      return this.lesson_content.archiveStatusId  === 1;
-    }
-    get isArchieved() {
-      return this.lesson_content.archiveStatusId  === 2;
     }
 }
