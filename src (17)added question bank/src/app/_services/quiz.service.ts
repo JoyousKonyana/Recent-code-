@@ -1,3 +1,4 @@
+import { submitQuiz } from './../_models/submitQuiz';
 
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';  
@@ -44,6 +45,11 @@ export class QuizService {
   }
   getAllQuestion(): Observable<any[]> {  
     return this.http.get<any[]>(`${this.urlQuestion}/GetAllQuestions/1`);  
+  }
+
+  //Submit Quiz
+  submitQuiz(courseId: number, onboarderId: number, quizId: number, submitQuiz:submitQuiz[]) {
+    return this.http.post(`${this.urlQuiz + '/SubmitQuiz/' + courseId + '/' + onboarderId + '/' + quizId, submitQuiz}`, submitQuiz);
   }
 
   //Option
