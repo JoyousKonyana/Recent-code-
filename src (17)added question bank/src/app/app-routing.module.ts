@@ -48,6 +48,7 @@ import {
   SS_EquipmentComponent,
   My_EquipmentComponent,
   EquipDashboardComponent
+  // QueryComponent
 } from './equipment';
 
 import {
@@ -128,6 +129,12 @@ const routes: Routes = [
     component: AdminComponent,
     //canActivate: [AuthGuard]
   },
+  // {
+  //   path: 'query',
+  //   component: QueryComponent,
+  //   //canActivate: [AuthGuard]
+  // }
+  // ,
 
   //Users path pages
   {
