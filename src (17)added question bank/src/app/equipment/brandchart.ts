@@ -12,7 +12,7 @@ import { first } from 'rxjs/operators';
 })
 export class BrandChartComponent {
 
-  equipment: any[] = [];
+  equipment: any;
 
     brand1: any[] = [];
     brand2: any[] = [];

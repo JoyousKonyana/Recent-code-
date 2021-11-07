@@ -4,3 +4,5 @@
  export * from './equipdashboard.component';
  export * from './typechart';
  export * from './brandchart';
+ export * from './equipment_type.component';
+ export * from './query.component';

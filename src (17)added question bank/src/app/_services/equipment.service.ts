@@ -73,4 +73,16 @@ export class EquipmentService {
     return this.http.put(`${this.url}/EquipmentDueForTradeIn`,equipcheckout);
   }
 
+
+  //Equipment Type
+  deleteType(id: number) {
+    return this.http.delete(`${this.url}/DeleteEquipmentType/` + id + '/' + this.userId);
+  }
+  updateType(id: number, equipment_type: Equipment_Type) {
+    return this.http.put(`${this.url3}/UpdateEquipmentType/` + id + '/' + this.userId, equipment_type);
+  }
+  createType(equipment_type: Equipment_Type) {
+    return this.http.post(`${this.url3}/CreateEquipmentType/` + this.userId, equipment_type);
+  }
+
 } 

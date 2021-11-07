@@ -24,19 +24,19 @@ export class Lesson_ContentService {
       return this.http.get<Lesson_Content>(`${this.url + '/GetLesson_ContentById/' + id}`);  
     }  
 
-    getLesson_ContentByLessonoutcomeId(id: string): Observable<Lesson_Content> {  
-      return this.http.get<Lesson_Content>(`${this.url}/GetLessonContentByLessonOutcome/`+id);  
-    } 
-
+  getLesson_ContentByLessonoutcomeId(id: number): Observable<Lesson_Content> {  
+    return this.http.get<Lesson_Content>(`${this.url}/GetLessonContentByLessonOutcome/`+id);  
+  }
+  getLesson_ContentByArchieveId(id: number): Observable<Lesson_Content> {  
+    return this.http.get<Lesson_Content>(`${this.url}/GetLessonContentByArchiveId/`+id);  
+  } 
   delete(id: number) {
     return this.http.delete(`${this.url}/DeleteLessonContent/` + id + '/' + this.userId);
   }
-
-  update(id:number, lesson_content: object) {
+  update(id:number, lesson_content: Lesson_Content) {
     return this.http.put(`${this.url}/UpdateLessonContent`+ id + '/' + this.userId, lesson_content);
   }
-
-  create(lesson_content: object) {
+  create(lesson_content: Lesson_Content) {
     return this.http.post(`${this.url}/UploadContentLink/` + this.userId, lesson_content);
   }
 

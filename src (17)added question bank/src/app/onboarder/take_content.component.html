@@ -1,12 +1,8 @@
 <h1>Lesson Content</h1>
 
-<h4 *ngIf="isNotArchieved">
+<h4 *ngFor="let content of content; let i = index">
       {{content.lessonContentDescription}}
       <br/>
-      {{content.LessonContent1}}
-</h4>
-
-<h4 *ngIf="isArchieved">
-      Lesson Content has been Archieved. It is currently unavailable
+      {{content.lessonContent1}}
 </h4>
 

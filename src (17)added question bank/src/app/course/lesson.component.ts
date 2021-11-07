@@ -16,7 +16,7 @@ import { ModalService } from '../_modal';
 })
 
 export class LessonComponent implements OnInit {
-  lesson: any[] = [];
+  lesson: any;
 
   course: any = {}
 
