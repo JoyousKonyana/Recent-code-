@@ -35,7 +35,7 @@ export class User_RoleService {
   }
 
   create(user_role: User_Role) {
-    return this.http.post(`${this.url}/CreateUserRole/` + this.userId, user_role);
+    return this.http.post(`${this.url}/CreateUserRole/` + 1, user_role);
   }
 
   assign(user_role: AssignUserRole) {

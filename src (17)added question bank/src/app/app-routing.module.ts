@@ -47,7 +47,9 @@ import {
   EquipmentComponent,
   SS_EquipmentComponent,
   My_EquipmentComponent,
-  EquipDashboardComponent
+  EquipDashboardComponent,
+  QueryComponent,
+  Equipment_TypeComponent
 } from './equipment';
 
 import {
@@ -121,13 +123,24 @@ const routes: Routes = [
     path: 'forgotpassword',
     component: ForgotPasswordComponent
   },
-
+  {
+    path: 'equipment_type',
+    component: Equipment_TypeComponent,
+    //canActivate: [AuthGuard]
+  }
+  ,
   //Role
   {
     path: 'admin',
     component: AdminComponent,
     //canActivate: [AuthGuard]
   },
+  {
+    path: 'query',
+    component: QueryComponent,
+    //canActivate: [AuthGuard]
+  }
+  ,
 
   //Users path pages
   {
