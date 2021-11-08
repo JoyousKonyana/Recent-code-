@@ -1,0 +1,1035 @@
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\User\Documents\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csprojAssemblyReference.cache
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\u19067098\Downloads\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\Administrator\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csprojAssemblyReference.cache
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\u19067098\Downloads\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\Downloads\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\Documents\ONboarding system (now) (2)\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Documents\ONboarding system (now) working\ONboarding system (now)\ONboarding system (3)\ONboarding system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Downloads\Team-14 Del 5\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\source\repos\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\bnvnbvn\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\HELO\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\backup app\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\Downloads\dEL CODE\-Team-14-Del-8-Handed-in-Version\370_Team14_BMW_ONBOARDING_SYSTEM\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\bnvnbvn\Code to implement question bank\questionbankfunctionality\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\mankg\Desktop\XYZ\Group 14\Onboading-system\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\Second semester\Onboading-system-kgothatso\Onboading-system-kgothatso\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\Second semester\new code\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.exe
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.deps.json
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.json
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.runtimeconfig.dev.json
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Common.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\Twilio.AspNet.Core.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.AssemblyReference.cache
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfoInputs.cache
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.AssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CoreCompileInputs.cache
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.Manifest.cache
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\staticwebassets\BMW ONBOARDING SYSTEM.StaticWebAssets.xml
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\scopedcss\bundle\BMW ONBOARDING SYSTEM.styles.css
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.RazorTargetAssemblyInfo.cache
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.csproj.CopyComplete
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.dll
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.pdb
+C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\obj\Debug\netcoreapp3.1\BMW ONBOARDING SYSTEM.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+<h1>Course Center</h1>
+
+<div class="btn btn-link" (click)="testData()">Populate Data</div>
+
+<p></p>
+
+<div class="container" *ngFor="let course of course; let i = index">
+
+<div class="card text-center" >
+
+  <div class="card-body">
+    <h5 class="card-title">{{course.courseName}}</h5>
+    <p class="card-text">{{course.courseDescription}}.</p>
+    <a class="btn btn-warning" [routerLink]="['/take_lesson', course.courseID]">Take Course</a>
+    <a class="btn btn-info" [routerLink]="['/progress', course.courseID]">Course Progress</a>
+    <a class="btn btn-primary">Read More </a>
+  </div>
+  <div class="card-footer text-muted">
+    Duration: {{course.courseDueDate}}
+  </div>
+</div>
+
+<p></p>
+
+</div>

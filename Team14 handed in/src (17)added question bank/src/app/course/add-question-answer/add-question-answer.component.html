@@ -1,0 +1,48 @@
+<div class="container">
+  <mat-toolbar class="toolbar">
+    <span class="fill-remaining-space"></span>
+    <div class="dialog-header">
+      <div class="dialog-header-title" *ngIf="question != null">
+        Add
+        <span class="question-in-title"> {{question.name}} </span>
+        Answer Options
+      </div>
+    </div>
+    <span class="fill-remaining-space"></span>
+  </mat-toolbar>
+
+  <form class="form">
+    <div class="field-container-inline">
+      <mat-form-field appearance="fill" class="question-input-field">
+        <mat-label>Answer option</mat-label>
+        <input matInput type="text" #answerOption required>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="question-input-field">
+        <mat-label>is Option Correct</mat-label>
+        <select #optionCorrect matNativeControl required>
+          <option value="No">No </option>
+          <option value="Yes">Yes</option>
+        </select>
+      </mat-form-field>
+
+      <button mat-raised-button color="warn" class="question-add-to-list-button"
+        (click)="onAddOptionToList(answerOption.value, optionCorrect.value)">
+        Add to options
+      </button>
+    </div>
+
+    <div *ngIf="answerOptionsList.length > 0" class="field-container-inline list-questions">
+      <mat-list role="list">
+        <mat-list-item *ngFor="let option of answerOptionsList" (click)="onRemoveOptionToList(option)"
+          matTooltip="Click to remove" class="question-in-bank">
+          {{option.Name}} | {{option.Correct}}
+        </mat-list-item>
+      </mat-list>
+    </div>
+
+    <div class="control-buttons-container">
+      <button mat-raised-button color="primary" (click)="onSbumitOptions()"> Submit</button>
+    </div>
+  </form>
+</div>

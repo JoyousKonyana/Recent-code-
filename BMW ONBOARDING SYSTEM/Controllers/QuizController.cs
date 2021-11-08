@@ -141,7 +141,7 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
                     NumberOfQuestions = item.NumberOfQuestions,
                     Questions = item.QuestionBank
                         .Questions
-                        .Where(question => question.AnswerOptions.Count > 2)
+                        .Where(question => question.AnswerOptions.Count >= 2)
                         .Select(question => new GetQuizQuestionDto
                         {
                             Id = question.Id,
@@ -159,11 +159,11 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
             return quiz;
         }
 
-        [HttpPost("Post/{courseid}/{onboarderid}/{quizId}")]
 
-        [Route("[action]/{courseid}/{onboarderid}/{quizId}")]
-        [HttpPost]
-        public ActionResult<GetQuizDetailsDto> SubmitQuiz(int courseid,int onboarderid,int quizId,[FromBody] SubmitQuizDto[] submitQuizDtos)
+
+        
+        [HttpPost("SubmitQuiz/{onboarderid}")]
+        public ActionResult<GetQuizDetailsDto> SubmitQuiz([FromBody] SubmitQuizDto model, int onboarderid)
         {
 
             var message = "";
@@ -172,61 +172,84 @@ namespace BMW_ONBOARDING_SYSTEM.Controllers
                 message = "Something went wrong on your side.";
                 return BadRequest(new { message });
             }
+
+      
+
+            var quizInDb = _context.Quizzes
+                .Include(item => item.QuestionBank)
+                .ThenInclude(item => item.Questions)
+                .Include(item => item.LessonOutcome)
+                .ThenInclude(item => item.Lesson)
+                .ThenInclude(item => item.Course)
+                .Where(item => item.Id == model.QuizId)
+                .FirstOrDefault();
+
+            if (quizInDb == null)
+            {
+                message = "Quiz not found";
+                return BadRequest(new { message });
+            }
+
+            var quizBankId = quizInDb.QuestionBankId;
+
+            var questionBank = _context.QuestionBank
+                .Include(item => item.Questions)
+                .FirstOrDefault(item => item.Id == quizBankId);
+
+
             var count = 0;
-            foreach(var quizAnswer in submitQuizDtos)
+            foreach ( var question in questionBank.Questions) 
             {
-                var option = _context.QuestionAnswerOptions.Where(x => x.Id == quizAnswer.QuestionId).FirstOrDefault();
-                if (option.IsOptionAnswer)
+
+                foreach (var questionQuiz in model.QuestionsAndOptions) 
                 {
-                    count += 1;
+
+                 
+
+                    if (question.Id == questionQuiz.QuestionId)
+                    {
+                        var correctOptions = _context.QuestionAnswerOptions
+                            .Where(item=>item.QuestionId == questionQuiz.QuestionId)
+                            .ToList();
+
+                        foreach(var optionFromDb in correctOptions)
+                        {
+                            if (questionQuiz.OptionId == optionFromDb.Id && optionFromDb.IsOptionAnswer)
+                            {
+                                count += 1;
+                            }
+                         
+                        }
+                      
+                    }
                 }
-
             }
 
-            var percentage = ((submitQuizDtos.Length)) / 2;
-            var percentToReturn = ((count) / (submitQuizDtos.Length)) * 100;
-            //assigned badge 1 which will be bronze you have just passed
-            if (count > percentage && count< submitQuizDtos.Length)
+            var OnberderPercentage = (count / model.QuestionsAndOptions.Count) * 100;
+
+            if (OnberderPercentage < quizInDb.PassMarkPercentage)
+            {
+                message = "You did not meet the minimum mark required to pass.";
+                return BadRequest(new { message });
+            }
+            if (OnberderPercentage >= quizInDb.PassMarkPercentage)
             {
                 var onboarderAchivement = new Achievement()
                 {
-                    CourseId = courseid,
+                    CourseId = quizInDb.LessonOutcome.Lesson.CourseID,
                     OnboarderId = onboarderid,
-                    MarkAchieved = count,
+                    MarkAchieved = OnberderPercentage,
                     AchievementDate = DateTime.Now,
                     AchievementTypeId = 1,
-                    QuizId = quizId
+                    QuizId = quizInDb.Id
 
                 };
-  
-
                 _context.Achievement.Add(onboarderAchivement);
                 _context.SaveChanges();
-
-                return Ok(percentToReturn);
-            }
-            else if(count == submitQuizDtos.Length)
-            {
-                var onboarderAchivement = new Achievement()
-                {
-                    CourseId = courseid,
-                    OnboarderId = onboarderid,
-                    MarkAchieved = count,
-                    AchievementDate = DateTime.Now,
-                    AchievementTypeId = 1,
-                    QuizId = quizId
-
-                };
-
-
-                _context.Achievement.Add(onboarderAchivement);
-                _context.SaveChanges();
-
-                return Ok(percentToReturn);
             }
 
-            return BadRequest("Sorry we could not capture achievement");
-         
+            return Ok();
+
         }
 
 

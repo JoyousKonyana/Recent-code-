@@ -1,0 +1,66 @@
+<div class="text-center">
+    <button (click)="pdf.saveAs('Active Log Report.pdf')" class="btn btn-success col-6">
+      Save As PDF...
+    </button>
+</div>
+
+<a href="javascript:;" *ngIf="employee.length > 0" (click)="getJsonData()" class="btn btn-primary">Read Data </a>
+
+
+  <hr>
+
+  <div class="search-hero container">
+    <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="&#61442;  Search Report">
+  </div>
+  
+  <hr>
+  
+  <kendo-pdf-export #pdf paperSize="A4">
+  
+  <div class="header" style="background-color:#8d1c71;">
+  <h1>IT Hub ZA</h1>
+  <p>Employee Log Report</p>
+  </div>
+
+  {{jsondatadisplay}}
+  
+  <table class="table table-striped">
+    <thead>
+    <tr>
+    <th scope="col">Employee ID</th>
+    <th scope="col">First Name</th>
+    <th scope="col">Middle Name</th>
+    <th scope="col">Last Name</th>
+    <th scope="col">ID Number</th>
+    <th scope="col">Contact Number</th>
+    <th scope="col">Job Title</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let items of employee | filter:searchText; let i = index">
+          <td>{{items.employeeId}}</td>
+          <td>{{items.firstName}}</td>
+          <td>{{items.middleName}}</td>
+          <td>{{items.lastName}}</td>
+          <td>{{items.idnumber}}</td>
+          <td>{{items.contactNumber}}</td>
+          <td>{{items.employeeJobTitle}}</td>
+        </tr>
+    </tbody>
+    </table>
+  
+  <footer style="background-color:#8d1c71;">
+  <p>.</p>
+  <div class="text-center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png" alt="Girl in a jacket" width="35" height="35">
+  <p>
+      <strong>
+          BMW
+      </strong>
+      Onboarder System
+  </p>
+  </div> 
+  <p>.</p>
+  </footer>
+  
+  </kendo-pdf-export> 

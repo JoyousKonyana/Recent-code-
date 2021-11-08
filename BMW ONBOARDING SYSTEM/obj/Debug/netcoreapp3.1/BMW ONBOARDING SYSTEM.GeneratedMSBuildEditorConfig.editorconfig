@@ -1,3 +1,7 @@
 is_global = true
 build_property.RootNamespace = BMW_ONBOARDING_SYSTEM
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\konya\OneDrive\Documents\Second semester\code to present\Recent-code-\BMW ONBOARDING SYSTEM\
+=======
+build_property.ProjectDir = C:\Users\konya\OneDrive\Documents\Second semester\code now\Recent-code-\BMW ONBOARDING SYSTEM\
+>>>>>>> c41f2904b210c3aeb09dda150049166b847ecc08

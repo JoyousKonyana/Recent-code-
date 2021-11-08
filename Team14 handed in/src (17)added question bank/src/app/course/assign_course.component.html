@@ -1,0 +1,56 @@
+<div class="container">
+
+  <h1>Assign Course</h1>
+
+  <div class="jumbotron">
+
+    <form [formGroup]="addEnrollmentForm">
+
+      <div class="form-group position">
+        <h4>Select Onboarder</h4>
+        <mat-form-field appearance="fill">
+          <mat-label>Onboarder</mat-label>
+          <mat-select formControlName="OnborderId">
+            <mat-option *ngFor="let item of onboarder" [value]="item.id">
+              {{item.fullName}}
+            </mat-option>
+          </mat-select>
+          <mat-error *ngIf="OnborderId.touched && OnborderId.invalid">
+            <div *ngIf="OnborderId.errors.required">Onborder is required.</div>
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="form-group position">
+        <h4>Select Course</h4>
+        <mat-form-field appearance="fill">
+          <mat-label>Course</mat-label>
+          <mat-select formControlName="CourseId">
+            <mat-option *ngFor="let item of course" [value]="item.courseID">
+              {{item.courseName}}
+            </mat-option>
+          </mat-select>
+          <mat-error *ngIf="CourseId.touched && CourseId.invalid">
+            <div *ngIf="CourseId.errors.required">Course is required.</div>
+          </mat-error>
+        </mat-form-field>
+      </div>
+      <div class="form-group position">
+
+        <mat-form-field appearance="outline">
+          <mat-label>Enrollment Date</mat-label>
+          <input matInput [matDatepicker]="picker" min="minDate" formControlName="EnrollmentDate">
+          <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+          <mat-datepicker #picker></mat-datepicker>
+          <mat-error *ngIf="EnrollmentDate.touched && EnrollmentDate.invalid">
+            <div *ngIf="EnrollmentDate.errors.required">Enrollment Date is required.</div>
+          </mat-error>
+        </mat-form-field>
+      </div>
+
+      <div class="form-group position">
+        <button type="submit" class="btn btn-success" (click)="onAddSubmit()">Add Enrollment</button>
+      </div>
+    </form>
+  </div>
+</div>

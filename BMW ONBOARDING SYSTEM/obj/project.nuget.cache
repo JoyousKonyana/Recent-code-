@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "CE16ZEsoKSJto6TPXpkqPOUs+kYq5c9GvYzK5E0tD7HEJPSstqO5UWgnswAqMWzYIiqbfRcmEYdqO1yDvZSv5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\konya\\OneDrive\\Documents\\Second semester\\code to present\\Recent-code-\\BMW ONBOARDING SYSTEM\\BMW ONBOARDING SYSTEM.csproj",
+=======
+  "dgSpecHash": "Y++oU1AAD4ji+pG/A1oGgfKYffpRrUGWfo58WgWJnhjEts7zDReAts0tH/1m/15sAGzScOdQ15gC9d3MZ8hdGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\konya\\OneDrive\\Documents\\Second semester\\code now\\Recent-code-\\BMW ONBOARDING SYSTEM\\BMW ONBOARDING SYSTEM.csproj",
+>>>>>>> c41f2904b210c3aeb09dda150049166b847ecc08
   "expectedPackageFiles": [
     "C:\\Users\\konya\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\konya\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
