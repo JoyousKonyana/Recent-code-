@@ -10,6 +10,8 @@ import { MatSnackBar } from '@angular/material/snack-bar';
 import { NgxSpinnerService } from 'ngx-spinner';
 import { ManageCoursesService } from '../_services/manage-courses/manage-courses.service';
 import { N_Quiz } from '../_services/manage-courses/manage-courses.types';
+import { submitquizDTO } from '../_models';
+import { InputModalityDetector } from '@angular/cdk/a11y';
 
 @Component({
   templateUrl: './quiz.component.html',
@@ -20,8 +22,12 @@ export class QuizComponent implements OnInit {
   quiz: any;
   quizId: any;
 
-  storedAnswers: any;
+  // storedAnswers: submitquizDTO[];
+  storedAnswers:any;
   storedAnswer: string;
+
+  selectedOptions:any[] = [];
+  slectedOption:any = {};
 
   constructor(
     private modalService: ModalService,
@@ -39,10 +45,18 @@ export class QuizComponent implements OnInit {
   }
 
   token: any;
-
+onboarderid!:number;
+courseid!:number;
   ngOnInit() {
     this._Activatedroute.paramMap.subscribe(params => {
       this.quizId = params.get('id');
+
+      var movies = localStorage.getItem("user");
+      movies     = JSON.parse(movies);
+      this.onboarderid = movies['onboarderid'];
+
+      this.courseid = Number(localStorage.getItem("courseid"));
+      console.log(movies['id']);
     });
 
     this.token = localStorage.getItem('token');    
@@ -57,7 +71,7 @@ export class QuizComponent implements OnInit {
       }
       if (event.type === HttpEventType.Response) {
         this.quiz = event.body as any;
-        console.log(this.quiz);
+        console.log("quiz",this.quiz);
         this._ngxSpinner.hide();
       }
     },
@@ -72,23 +86,31 @@ export class QuizComponent implements OnInit {
     OptionId: ''
   }
 
-  selected(index: number) {
-    this.model.QuestionId = index;
-    this.model.OptionId = this.storedAnswer;
+  selected(event:any, question:any) {
 
-    this.storedAnswers.push(this.model)
+   
+    this.slectedOption["OptionId"] = event.id;
+    this.slectedOption["QuestionId"] = question.id;
+
+    this.selectedOptions.push(this.slectedOption);
+
   }
 
   submitQuiz() {
-    this.quizService.submitQuiz(1,this.token.onboarderId,this.quizId, this.storedAnswers)
-        .pipe(first())
-        .subscribe(
-          data => {
-            this.alertService.success('Creation was successful', true);
-          },
-          error => {
-            this.alertService.error('Error, Creation was unsuccesful');
-          });
+    var formToSubmit ={};
+    formToSubmit["QuizId"] = this.quizId;
+    formToSubmit["QuestionsAndOptions"] = this.selectedOptions;
+   console.log(formToSubmit)
+  //   this.quizService.submitQuiz(this.courseid,this.onboarderid,this.quizId, this.storedAnswers)
+  //       .pipe(first())
+  //       .subscribe(
+  //         data => {
+  //           this.alertService.success('Creation was successful', true);
+  //         },
+  //         error => {
+  //           this.alertService.error('Error, Creation was unsuccesful');
+  //         });
   }
 
 }
+;

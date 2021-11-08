@@ -30,6 +30,8 @@ export class Take_LessonComponent implements OnInit {
   ngOnInit() { 
       this._Activatedroute.paramMap.subscribe(params => { 
         this.id = params.get('id'); 
+        alert(this.id);
+        localStorage.setItem("courseid", this.id);
       });
 
       this.loadAll();

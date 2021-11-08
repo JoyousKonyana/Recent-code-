@@ -51,7 +51,7 @@ export class QuizService {
 
   //Submit Quiz
   submitQuiz(courseId: number, onboarderId: number, quizId: number, submitQuiz:submitQuiz[]) {
-    return this.http.post(`${this.urlQuiz + '/SubmitQuiz/' + courseId + '/' + onboarderId + '/' + quizId, submitQuiz}`, submitQuiz);
+    return this.http.post(`${this.urlQuiz + '/SubmitQuiz/' + courseId + '/' + onboarderId + '/' + quizId}`, submitQuiz);
   }
 
   //Option

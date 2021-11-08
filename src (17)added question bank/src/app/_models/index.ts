@@ -38,3 +38,4 @@ export * from './quiz';
 export * from './assignuserrole';
 export * from './progressreport';
 export * from './forgotPassword';
+export * from './submitquizDTO';

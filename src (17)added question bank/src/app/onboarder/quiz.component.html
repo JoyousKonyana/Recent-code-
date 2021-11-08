@@ -24,7 +24,7 @@
             <mat-radio-group 
               class="answer-options-container"
               [(ngModel)]="storedAnswer">
-              <mat-radio-button *ngFor="let option of question.answerOptions" (select)="selected(question.id)" [value]="option.id">{{option.option}}</mat-radio-button>
+              <mat-radio-button *ngFor="let option of question.answerOptions" (change)="selected(option, question)" [value]="option.id">{{option.option}}</mat-radio-button>
             </mat-radio-group>
 
           </div>
@@ -35,10 +35,10 @@
     <hr>
 
   </div>
-
+  <button (click)="submitQuiz()">Submit</button>
 </div>
 
-<button (click)="submitQuiz()">Submit</button>
+
 
 <!-- <div *ngIf="question.length == 0" class="container">
   <h2>You have completed your Quiz. Here are you marks</h2>
