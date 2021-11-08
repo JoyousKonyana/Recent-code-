@@ -23,7 +23,7 @@
 
             <mat-radio-group 
               class="answer-options-container"
-              [(ngModel)]="storedAnswer">
+             >
               <mat-radio-button *ngFor="let option of question.answerOptions" (change)="selected(option, question)" [value]="option.id">{{option.option}}</mat-radio-button>
             </mat-radio-group>
 

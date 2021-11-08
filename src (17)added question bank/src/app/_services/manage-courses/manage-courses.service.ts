@@ -78,4 +78,10 @@ export class ManageCoursesService {
     return this._httpClient.get(this.endpointBase.concat("Course/Get/" + courseId),
       { reportProgress: true, observe: 'events' });
   }
+
+  submitOnborderQuiz(payload, onBorderId:number) {
+    return this._httpClient.post(this.endpointBase.concat("Quiz/SubmitQuiz/"+onBorderId),
+      payload,
+      { reportProgress: true, observe: 'events' });
+  }
 }

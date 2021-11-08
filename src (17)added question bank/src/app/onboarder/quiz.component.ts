@@ -88,42 +88,47 @@ courseid!:number;
 
   selected(event:any, question:any) {
 
-   
-    this.slectedOption["OptionId"] = event.id;
-    this.slectedOption["QuestionId"] = question.id;
+    var seletedOption2 = {};
+    seletedOption2["OptionId"] = event.id;
+    seletedOption2["QuestionId"] = question.id;
 
-    this.selectedOptions.push(this.slectedOption);
+    console.log(seletedOption2);
+
+    this.selectedOptions.push(seletedOption2);
 
   }
 
   submitQuiz() {
-<<<<<<< HEAD
+
     var formToSubmit ={};
     formToSubmit["QuizId"] = this.quizId;
     formToSubmit["QuestionsAndOptions"] = this.selectedOptions;
    console.log(formToSubmit)
-  //   this.quizService.submitQuiz(this.courseid,this.onboarderid,this.quizId, this.storedAnswers)
-  //       .pipe(first())
-  //       .subscribe(
-  //         data => {
-  //           this.alertService.success('Creation was successful', true);
-  //         },
-  //         error => {
-  //           this.alertService.error('Error, Creation was unsuccesful');
-  //         });
-=======
-    this.quizService.submitQuiz(1,this.token.onboarderId,this.quizId, this.storedAnswers)
-        .pipe(first())
-        .subscribe(
-          data => {
-            this.alertService.success('Quiz submitted', true);
-            this.router.navigate(['/take_course'])
-          },
-          error => {
-            this.alertService.error('Error, Quiz not submitted');
-          });
->>>>>>> e98385da28eb86894a3fe462852745a49bedf532
+
+
+  this._manageCoursesService.submitOnborderQuiz(formToSubmit, this.onboarderid)
+  .subscribe(event => {
+    if (event.type === HttpEventType.Sent) {
+      this._ngxSpinner.show();
+    }
+    if (event.type === HttpEventType.Response) {
+      this._ngxSpinner.hide();
+      this.openSnackBar("Success!","You passed", 3000);
+    }
+  },
+    error => {
+      this._ngxSpinner.hide();
+      this.openSnackBar("Message:", error.error.message, 3000);
+
+    });
+}
+
+
+  private openSnackBar(message: string, action: string, _duration: number) {
+    this._snackBar.open(message, action, {
+      duration: _duration,
+      verticalPosition: 'top'
+    });
   }
 
 }
-;
