@@ -53,6 +53,7 @@ export class EquipmentComponent implements OnInit {
     .subscribe(
       equipment => {
         this.equipment = equipment;
+        console.log('Equipment: ', equipment);
       },
       error => {
         this.alertService.error('Error, Data (Equipment) was unsuccesfully retrieved');
@@ -132,11 +133,14 @@ export class EquipmentComponent implements OnInit {
 
 
   addEquipment() {
+    console.log('Form Data: ', this.registerEquipmentForm.value);
     
     this.model3.EquipmentTypeId = this.registerEquipmentForm.get('equipment_type')?.value;
     this.model3.EquipmentTradeInDeadline = this.registerEquipmentForm.get('EquipmentTradeInDeadline')?.value;
     this.model3.EquipmentBrandId = this.registerEquipmentForm.get('equipment_brand')?.value;
     this.model3.EquipmentSerialNumber = String(this.registerEquipmentForm.get('EquipmentSerialNumber')?.value);
+
+    console.log('Model 3: ', this.model3);
 
     this.equipmentService.create(this.model3)
             .pipe(first())

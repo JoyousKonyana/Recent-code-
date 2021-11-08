@@ -11,7 +11,10 @@ export class FAQService {
 
    //Joyous, please put the link of the API here
    url = 'https://localhost:44319/api/Faq';
-   userId: any = localStorage.getItem('user');  
+  //  userId: any = localStorage.getItem('user');
+  movies:any = localStorage.getItem("user");
+  moviesi:any     = JSON.parse(this.movies);
+  userId = this.moviesi['id']; 
   //  header= new HttpHeaders(){
   //   // Content-Type: "application/json"
   //  };

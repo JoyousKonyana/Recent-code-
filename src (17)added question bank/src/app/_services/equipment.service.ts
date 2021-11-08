@@ -17,7 +17,10 @@ export class EquipmentService {
    url = 'https://localhost:44319/api/Equipment';  
    url2 ='https://localhost:44319/api/EquipmentBrand';
    url3 ='https://localhost:44319/api/EquipmentType';
-   userId: any = localStorage.getItem('user');
+   //  userId: any = localStorage.getItem('user');
+   movies:any = localStorage.getItem("user");
+   moviesi:any     = JSON.parse(this.movies);
+   userId = this.moviesi['id'];
 
   constructor(private http: HttpClient) { }  
 

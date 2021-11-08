@@ -11,7 +11,10 @@ import { Observable } from 'rxjs';
 })
 export class LessonService {
   url = 'https://localhost:44319/api/Lesson';
-  userId: any = localStorage.getItem('user');
+ //  userId: any = localStorage.getItem('user');
+ movies:any = localStorage.getItem("user");
+ moviesi:any     = JSON.parse(this.movies);
+ userId = this.moviesi['id'];
 
   constructor(private http: HttpClient) { }
 

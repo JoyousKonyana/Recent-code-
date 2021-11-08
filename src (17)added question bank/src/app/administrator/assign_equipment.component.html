@@ -31,7 +31,7 @@
           <mat-form-field appearance="fill">
             <mat-label>Equipment</mat-label>
             <mat-select formControlName="equipment">
-              <mat-option *ngFor="let item of equipment" [value]="item.equipmentSerialNumber" >
+              <mat-option *ngFor="let item of equipment" [value]="item.equipmentId" >
                 {{item.equipmentSerialNumber}}-{{item.equipmentType.equipmentTypeDescription}}
               
               </mat-option>
@@ -44,8 +44,8 @@
           <mat-form-field appearance="fill">
             <mat-label>Onboarder</mat-label>
             <mat-select formControlName="onboarder">
-              <mat-option *ngFor="let item of onboarder" [value]="item.onboarderId" >
-                {{item.onboarderId}}-{{item.employee.firstName}} {{item.employee.lastName}}
+              <mat-option *ngFor="let item of onboarder" [value]="item.id" >
+                {{item.id}}-{{item.fullName}}
               </mat-option>
             </mat-select>
           </mat-form-field>
@@ -72,7 +72,7 @@
            class="form-control positionInput"
            id="condition"
            name="EquipmentCheckOutCondition"
-           formControlName="Brand New"
+           formControlName="condition"
            placeholder="Check Out Condition">
   </div>
 

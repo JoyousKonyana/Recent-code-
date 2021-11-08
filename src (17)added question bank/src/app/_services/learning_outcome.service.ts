@@ -13,7 +13,10 @@ export class Learning_OutcomeService {
 
    //Joyous, please put the link of the API here
    url = 'https://localhost:44319/api/LessonOutcome';  
-   userId: any = localStorage.getItem('user');
+  //  userId: any = localStorage.getItem('user');
+  movies:any = localStorage.getItem("user");
+  moviesi:any     = JSON.parse(this.movies);
+  userId = this.moviesi['id'];
 
   constructor(private http: HttpClient) { }  
 

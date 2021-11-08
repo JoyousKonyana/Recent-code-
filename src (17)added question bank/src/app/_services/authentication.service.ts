@@ -47,7 +47,8 @@ export class AuthenticationService {
             .pipe(map(user => {
                 // store user details and jwt token in local storage to keep user logged in between page refreshes
                 //localStorage.setItem('user', JSON.stringify(user));
-                localStorage.setItem('user', user);
+                // localStorage.setItem('user', user);
+                localStorage.setItem("user", JSON.stringify(user));
             }));
     }
 
@@ -69,6 +70,7 @@ export class AuthenticationService {
     otp(otp: OTP) {
         return this.http.post<any>(`${this.url}/twofatorAuth`, otp).pipe(map(role => {
             // store user details and jwt token in local storage to keep user logged in between page refreshes
+            console.log('User Role: ', role);
             localStorage.setItem('userrole', role);
             // this.userSubject.next(user);
             // return user;

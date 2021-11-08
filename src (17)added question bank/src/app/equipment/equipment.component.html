@@ -234,8 +234,12 @@ Update</button>
       <td>{{items.equipmentSerialNumber}}</td>
       <td>{{items.equipmentType.equipmentTypeDescription}}</td>
       <td>{{items.equipmentBrand.equipmentBrandName}}</td>
-      <td>{{items.equipmentTradeInDeadline}}</td>
-      <td>{{items.equipmentTradeInStatus}}</td>
+      <td>{{items.equipmentTradeUnDeadline}}</td>
+
+      <td *ngIf="items.equipmentTradeInStatus == 1">Not due for trade in</td>
+      <td *ngIf="items.equipmentTradeInStatus == 2">Due for trade in</td>
+      <td *ngIf="items.equipmentTradeInStatus == 3">Traded in</td>
+      
       <td>
         <button class="btn btn-primary" (click)="editEquipment(i)">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">

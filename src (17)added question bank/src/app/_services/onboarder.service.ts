@@ -13,7 +13,9 @@ export class OnboarderService {
 
    //Joyous, please put the link of the API here
    url = 'https://localhost:44319/api/Onboarder';  
-
+   movies:any = localStorage.getItem("user");
+   moviesi:any     = JSON.parse(this.movies);
+   userId = this.moviesi['onboarderId'];
   constructor(private http: HttpClient) { }  
 
   getAllOnboarder(): Observable<any[]> {  
@@ -27,7 +29,9 @@ export class OnboarderService {
   delete(id: number) {
     return this.http.delete(`${this.url + '/DeleteOnboarder/' + id}`);
   }
-
+  getCourseByOnboarderID(id:number){
+    return this.http.get<Onboarder>(`${this.url + '/GetAllCoursesAssignedToOnboarder/' + id}`); 
+  }
   update(id: number, onboarder: object) {
     return this.http.put(`${this.url + '/UpdateOnboarder/' + id}`, onboarder);
   }

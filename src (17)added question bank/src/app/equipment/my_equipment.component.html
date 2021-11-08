@@ -17,21 +17,23 @@
 <form>
 <div class="form-group name">
   <label>Enter Equipment Query Description</label>
-  <input type="text"
-         class="form-control"
-         id="description"
-         name="description"
-         [(ngModel)]="model2.EquipmentQueryDescription"
-         placeholder="Description..">
+  <textarea type="text"
+      class="form-control"
+      id="description"
+      name="description"
+      rows="3"
+      [(ngModel)]="model2.EquipmentQueryDescription"
+      placeholder="Description.."> 
+  </textarea>
 </div>
- <div class="form-group position">
+ <!-- <div class="form-group position">
   <label>Enter Equipment Query Date</label>
    <input type="date"
          class="form-control"
          id="date"
          name="date"
          [(ngModel)]="model2.EquipmentQueryDate">
-</div>
+</div> -->
 <button class="btn btn-success" type="submit" (click)="updateReport_Query()">Report Query</button>
 </form>
 </div>
@@ -43,27 +45,28 @@
 <table class="table table-striped">
 <thead>
   <tr>
-    <th class="col">Equipment ID</th>
+    <th class="col">Equipment Type</th>
     <th class="col">Check Out Date</th>
-    <th class="col">Check Out Condition</th>
+    <!-- <th class="col">Check Out Condition</th> -->
     <th class="col">Check In Date</th>
-    <th class="col">Check In Condition</th>
+    <!-- <th class="col">Check In Condition</th> -->
     <th class="col">Action</th>
   </tr>
 </thead>
 <tbody>
   <tr *ngFor="let equipment of x; let i = index">
-    <td>{{equipment.equipmentId}}</td>
+    <td>{{equipment.equipment.equipmentType.equipmentTypeDescription}}</td>
     <td>{{equipment.equipmentCheckOutDate}}</td>
-    <td>{{equipment.EquipmentCheckOutCondition}}</td>
-    <td>{{equipment.equipmentCheckInDate}}</td>
-    <td>{{equipment.EquipmentCheckInCondition}}</td>
+    <!-- <td>{{equipment.EquipmentCheckOutCondition}}</td> -->
+    <td  *ngIf="equipment.equipmentCheckOutDate === equipment.equipmentCheckInDate"> - </td>
+    <td  *ngIf="equipment.equipmentCheckOutDate != equipment.equipmentCheckInDate">{{equipment.equipmentCheckInDate}}</td>
+    <!-- <td>{{equipment.EquipmentCheckInCondition}}</td> -->
     <td>
-    <div>
+    <div *ngIf="equipment.equipmentCheckOutDate === equipment.equipmentCheckInDate && !isChecked">
       <label>Check Equipment: </label>
-      <input class="form-check-input" type="checkbox" id="checkboxNoLabel" value="" aria-label="...">
+      <input (click)="checkEquipment(equipment)" class="form-check-input" type="checkbox" id="checkboxNoLabel" value="" aria-label="...">
     </div>
-    <button class="btn btn-danger" (click)="editReport_Query(equipment.equipmentId)">Report Query</button>
+    <button *ngIf="isChecked" class="btn btn-danger" (click)="editReport_Query(equipment.equipmentId)">Report Query</button>
     <button class="btn btn-info">Read More</button>
     </td>
   </tr>
