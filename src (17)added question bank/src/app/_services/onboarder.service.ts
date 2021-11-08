@@ -35,9 +35,9 @@ export class OnboarderService {
   update(id: number, onboarder: object) {
     return this.http.put(`${this.url + '/UpdateOnboarder/' + id}`, onboarder);
   }
-
-  generateCourseProgressReport(onboarderprogressreport: ProgressReport) {
-    return this.http.post(`${this.url + '/GenerateCourseProgressReport'}`, onboarderprogressreport);
+  url2 = 'https://localhost:44319/api/Achievement';  
+  generateCourseProgressReport(onboarderprogressreport:number) {
+    return this.http.get(`${this.url2 + '/GetAchiementByOnboarderId/'+onboarderprogressreport }`);
   }
 
   create(onboarder: object) {

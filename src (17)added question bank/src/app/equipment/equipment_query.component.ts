@@ -38,6 +38,7 @@ private loadAll() {
   .subscribe(
     x => {
       this.x = x;
+      console.log(this.x)
     },
     error => {
       this.alertService.error('Error, Data was unsuccesfully retrieved');
@@ -70,29 +71,40 @@ private loadAll() {
   myValue = 0;
 
   editReport_Query(editReport_QueryInfo: number) {
-    this.newReport_QueryClicked = !this.newReport_QueryClicked;
-    this.myValue = editReport_QueryInfo;
+    // this.newReport_QueryClicked = !this.newReport_QueryClicked;
+    // this.myValue = editReport_QueryInfo;
+    this.yService.deletequery(editReport_QueryInfo)
+    .pipe(first())
+    .subscribe(
+        data => {
+            this.alertService.success('Query status was updated successfully', true);
+            this.loadAll()
+        },
+        error => {
+            this.alertService.error('Error, Query status was unsuccesfully updated');
+        });
+    this.loadAll();
   }
 
-  Report_Query() {
-    let editReport_QueryInfo = this.myValue;
+  // Report_Query() {
+  //   let editReport_QueryInfo = this.myValue;
 
-    this.model2.EquipmentQueryId  = this.x[editReport_QueryInfo].EquipmentQueryId;
-    this.model2.EquipmentQueryStatusId = this.queryStatusId;
+  //   this.model2.EquipmentQueryId  = this.x[editReport_QueryInfo].EquipmentQueryId;
+  //   this.model2.EquipmentQueryStatusId = this.queryStatusId;
 
-    this.yService.resolveQuery(this.model2)
-            .pipe(first())
-            .subscribe(
-                data => {
-                    this.alertService.success('Query status was updated successfully', true);
-                    this.loadAll()
-                },
-                error => {
-                    this.alertService.error('Error, Query status was unsuccesfully updated');
-                });
+  //   this.yService.deletequery(this.model2)
+  //           .pipe(first())
+  //           .subscribe(
+  //               data => {
+  //                   this.alertService.success('Query status was updated successfully', true);
+  //                   this.loadAll()
+  //               },
+  //               error => {
+  //                   this.alertService.error('Error, Query status was unsuccesfully updated');
+  //               });
 
-    this.newReport_QueryClicked = !this.newReport_QueryClicked;
-  }
+  //   this.newReport_QueryClicked = !this.newReport_QueryClicked;
+  // }
 
   CloseReport_QueryBtn() {
     this.newReport_QueryClicked = !this.newReport_QueryClicked;

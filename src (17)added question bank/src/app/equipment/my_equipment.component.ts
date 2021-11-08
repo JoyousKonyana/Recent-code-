@@ -30,13 +30,18 @@ export class My_EquipmentComponent implements OnInit {
 ) {
 
 }
-
+modelequip!:number;
 ngOnInit() { 
+  var movies = localStorage.getItem("user");
+    movies     = JSON.parse(movies);
+    this.modelequip = movies['onboarderid'];
+    console.log(movies['id']);
     this.loadAll();
+    
 }
 
 private loadAll() {
-  this.xService.GetAssignedEquipment(1)
+  this.xService.GetAssignedEquipment(this.modelequip)
   .pipe(first())
   .subscribe(
     x => {
@@ -141,7 +146,7 @@ equipid:number;
     const date = new Date().toISOString();
     const data = {
       EquipmentId: equipment.equipmentId,
-      OnboarderId: equipment.onboarderID,
+      OnboarderId:  this.modelequip ,
       EquipmentCheckInDate: date,
       EquipmentCheckInCondition: equipment.equipmentCheckInCondition
     };

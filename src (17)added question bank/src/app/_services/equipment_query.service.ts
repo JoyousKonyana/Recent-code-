@@ -36,7 +36,7 @@ export class Equipment_QueryService {
   create(x:Equipment_Query) {
     return this.http.post(`${this.url}/ReportEquipmentQuery`, x);
   }
-
+  d
   url2 = 'https://localhost:44319/api/EquipmentQueryStatus'; 
   //Status
   createQueryStatus(x:Query_Status) {
@@ -52,8 +52,8 @@ export class Equipment_QueryService {
     return this.http.put(`${this.url2}/UpdateQueryStatus/` + id + '/' + this.userId, query_status);
   }
 
-  resolveQuery(resolve: ResolveQuery){
-    return this.http.put(`${this.url}/ResolveQuery`, resolve);
+  deletequery(resolve: number){
+    return this.http.delete(`${this.url}/Delete/`+resolve);
   }
 
   url3 = 'https://localhost:44319/api/Equipment'; 

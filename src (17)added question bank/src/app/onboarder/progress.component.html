@@ -4,21 +4,20 @@
   <h2>Course Progress</h2>
 
    <div>
+<div *ngFor="let m of progress; let i = index">
+
 
   <div class="card bg-dark text-white">
-    <div class="card-body">{{progress.name}}</div>
-    <div class="progress">
-      <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" 
-        style='width:100%'
-        >
-        <span class="sr-only">The Badge Total: {{progress.badgeTotal}}</span>
-      </div>
-    </div>
-    <p>Onboarder Enrollment Date: {{progress.onboarderEnrollmentDate}}</p>
+    <div class="card-body">Mark: {{m.markAchieved}}</div>
+    <div class="card-body">Date achieved: {{m.achievementDate}}</div>
+   
+    <div class="card-body">Achievement type :{{m.achievementType.achievementTypeDescription}}</div>
+  
+   
   </div>
 
   <p></p>
-
+</div>
   </div>
 
 </div>

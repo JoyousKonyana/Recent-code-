@@ -114,6 +114,8 @@ courseid!:number;
     if (event.type === HttpEventType.Response) {
       this._ngxSpinner.hide();
       this.openSnackBar("Success!","You passed", 3000);
+      //add router
+      
     }
   },
     error => {

@@ -33,7 +33,8 @@ export class ProgressComponent implements OnInit {
     }
 
     token: any;
-
+   
+    onboarderid!:Number;
     ngOnInit() {
 
       this.token = localStorage.getItem('token');
@@ -41,15 +42,17 @@ export class ProgressComponent implements OnInit {
       this._Activatedroute.paramMap.subscribe(params => { 
         this.courseId = params.get('id'); 
       });
+      var movies = localStorage.getItem("user");
+      movies     = JSON.parse(movies);
+      this.onboarderid = movies['onboarderid'];
+      console.log("onboadre number",this.onboarderid)
 
-      this.model.courseID = this.courseId;
-      this.model.onboarderID = this.token.onboarderId;
-
-      this.onboarderService.generateCourseProgressReport(this.model)
+      this.onboarderService.generateCourseProgressReport(Number(this.onboarderid))
       .pipe(first())
       .subscribe(
         progress => {
           this.progress = progress;
+          console.log(this.progress)
         },
         error => {
           this.alertService.error('Error, Data was unsuccesfully retrieved');

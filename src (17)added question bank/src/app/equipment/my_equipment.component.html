@@ -54,7 +54,7 @@
     <td  *ngIf="equipment.equipmentCheckOutDate != equipment.equipmentCheckInDate">{{equipment.equipmentCheckInDate}}</td>
     <!-- <td>{{equipment.EquipmentCheckInCondition}}</td> -->
     <td>
-    <div *ngIf="equipment.equipmentCheckOutDate === equipment.equipmentCheckInDate && !isChecked">
+    <div *ngIf="equipment.equipmentCheckOutDate === equipment.equipmentCheckInDate ">
       <label>Check Equipment: </label>
       <input (click)="checkEquipment(equipment)" class="form-check-input" type="checkbox" id="checkboxNoLabel" value="" aria-label="...">
     </div>
