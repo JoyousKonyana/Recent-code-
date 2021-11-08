@@ -16,6 +16,7 @@ import { MatInputModule } from "@angular/material/input";
 
 import {
   Register_EmployeeComponent,
+  View_BookingComponent,
   Assign_EquipmentComponent,
   SS_AdministratorComponent,
   CRUD_FAQComponent,
@@ -33,6 +34,7 @@ import {
   EquipDashboardComponent,
   QueryComponent,
   Equipment_TypeComponent,
+  EquipmentQueryComponent,
 
   //Charts
   TypeChartComponent,
@@ -153,6 +155,7 @@ import { ListCourseEnrollmentsComponent } from './course/list-course-enrollments
     CRUD_EmployeeComponent,
     Import_EmployeeComponent,
     OnboarderComponent,
+    View_BookingComponent,
     AdminDashboardComponent,
     DepartChartComponent, //Chart
 
@@ -190,6 +193,7 @@ import { ListCourseEnrollmentsComponent } from './course/list-course-enrollments
     EquipDashboardComponent,
     QueryComponent,
     Equipment_TypeComponent,
+    EquipmentQueryComponent,
     TypeChartComponent, //Chart
     BrandChartComponent, //Chart
 

@@ -97,6 +97,7 @@ courseid!:number;
   }
 
   submitQuiz() {
+<<<<<<< HEAD
     var formToSubmit ={};
     formToSubmit["QuizId"] = this.quizId;
     formToSubmit["QuestionsAndOptions"] = this.selectedOptions;
@@ -110,6 +111,18 @@ courseid!:number;
   //         error => {
   //           this.alertService.error('Error, Creation was unsuccesful');
   //         });
+=======
+    this.quizService.submitQuiz(1,this.token.onboarderId,this.quizId, this.storedAnswers)
+        .pipe(first())
+        .subscribe(
+          data => {
+            this.alertService.success('Quiz submitted', true);
+            this.router.navigate(['/take_course'])
+          },
+          error => {
+            this.alertService.error('Error, Quiz not submitted');
+          });
+>>>>>>> e98385da28eb86894a3fe462852745a49bedf532
   }
 
 }

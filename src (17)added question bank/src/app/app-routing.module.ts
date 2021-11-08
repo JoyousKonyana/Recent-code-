@@ -10,6 +10,7 @@ import {
   Assign_EquipmentComponent,
   OnboarderComponent,
   SS_AdministratorComponent,
+  View_BookingComponent,
   CRUD_FAQComponent,
   CRUD_EmployeeComponent,
   Import_EmployeeComponent,
@@ -49,7 +50,8 @@ import {
   My_EquipmentComponent,
   EquipDashboardComponent,
   QueryComponent,
-  Equipment_TypeComponent
+  Equipment_TypeComponent,
+  EquipmentQueryComponent
 } from './equipment';
 
 import {
@@ -127,8 +129,12 @@ const routes: Routes = [
     path: 'equipment_type',
     component: Equipment_TypeComponent,
     //canActivate: [AuthGuard]
-  }
-  ,
+  },
+  {
+    path: 'equipment_query',
+    component: EquipmentQueryComponent
+  },
+
   //Role
   {
     path: 'admin',
@@ -164,6 +170,10 @@ const routes: Routes = [
     path: 'onboarder',
     component: OnboarderComponent,
     //canActivate: [AuthGuard], data: { roles: [Role.Admin] }
+  },
+  {
+    path: 'view_booking',
+    component: View_BookingComponent
   },
   {
     path: 'admindashboard',
