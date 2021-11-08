@@ -1,0 +1,41 @@
+<div class="text-center">
+    <button (click)="pdf.saveAs('Equipment TradeIn Report.pdf')" class="btn btn-success col-6">
+      Save As PDF...
+    </button>
+  </div>
+  
+  <hr>
+  
+  <kendo-pdf-export #pdf paperSize="A4">
+  
+  <div class="header" style="background-color:#eeff00;">
+  <h1>IT Hub ZA</h1>
+  <p>Equipment Trade-In Report</p>
+  </div>
+  
+  <div>
+    <canvas baseChart
+            [datasets]="barChartData"
+            [labels]="barChartLabels"
+            [options]="barChartOptions"
+            [legend]="barChartLegend"
+            chartType="bar"
+            id="avgChart">
+    </canvas>
+  </div>
+  
+  <footer style="background-color:#eeff00;">
+  <p>.</p>
+  <div class="text-center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png" alt="Girl in a jacket" width="35" height="35">
+  <p>
+      <strong>
+          BMW
+      </strong>
+      Onboarder System
+  </p>
+  </div> 
+  <p>.</p>
+  </footer>
+  
+  </kendo-pdf-export> 

@@ -1,0 +1,49 @@
+<div class="text-center">
+    <button (click)="pdf.saveAs('Active Log Report.pdf')" class="btn btn-success col-6">
+      Save As PDF...
+    </button>
+  </div>
+  
+  <hr>
+  
+  <kendo-pdf-export #pdf paperSize="A4">
+  
+  <div class="header" style="background-color:#cc1818;">
+  <h1>IT Hub ZA</h1>
+  <p>Active Log Report</p>
+  </div>
+  
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="col-2">ID</th>
+        <th class="col-4">IP Address</th>
+        <th class="col-3"> Login Time Stamp</th>
+        <th class="col-3">Active Time Stamp</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of active_log; let i = index">
+        <td>{{item.activeLogId}}</td>
+        <td>{{item.activeLogDeviceIpaddress}}</td>
+        <td>{{item.activeLogLoginTimestamp}}</td>
+        <td>{{item.activeLogLastActiveTimestamp}}</td>
+      </tr>
+    </tbody>
+    </table>
+  
+  <footer style="background-color:#cc1818;">
+  <p>.</p>
+  <div class="text-center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/BMW_logo_%28gray%29.svg/2048px-BMW_logo_%28gray%29.svg.png" alt="Girl in a jacket" width="35" height="35">
+  <p>
+      <strong>
+          BMW
+      </strong>
+      Onboarder System
+  </p>
+  </div> 
+  <p>.</p>
+  </footer>
+  
+  </kendo-pdf-export> 

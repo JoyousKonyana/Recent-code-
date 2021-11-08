@@ -1,0 +1,15 @@
+<h4 style="text-align:center">Bar Graph For Department Type Registered in the System
+</h4>
+
+<button  (click)="loadAll()" class="btn btn-info">Refresh</button>
+
+<div style="display: block">
+    <canvas baseChart
+            [datasets]="barChartData"
+            [labels]="barChartLabels"
+            [options]="barChartOptions"
+            [legend]="barChartLegend"
+            chartType="bar"
+            id="avgChart">
+    </canvas>
+  </div>

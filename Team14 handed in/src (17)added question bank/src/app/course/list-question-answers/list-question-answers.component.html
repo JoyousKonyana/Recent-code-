@@ -1,0 +1,35 @@
+<div class="container">
+  <mat-toolbar class="toolbar">
+    <span class="fill-remaining-space"></span>
+    <div class="dialog-header">
+      <div class="dialog-header-title" *ngIf="question != null">
+        <span class="question-in-title"> {{question.name}} </span>
+        Answer Options
+      </div>
+      <button mat-button (click)="onViewAddAnswerOptionsModal()">Add Answer Options</button>
+    </div>
+    <span class="fill-remaining-space"></span>
+  </mat-toolbar>
+
+  <div class="tableWrapper">
+    <table class="table table-striped" *ngIf="answerOptions != null">
+      <thead>
+        <tr>
+          <th class="col-4">Answer Option</th>
+          <th class="col-1">Correct ?</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of answerOptions; let i = index">
+          <td>{{item.option}}</td>
+          <td>{{item.correct}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+</div>
+
+<ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+  <p style="font-size: 20px; color: white">Please wait</p>
+</ngx-spinner>

@@ -1,0 +1,134 @@
+<div class="AddEmployeeTitleContainer">
+    <div class="addEmployeeTitleContainer">
+      <div>
+        Manage Equipment Type
+      </div>
+      <br />
+      <div class="btn btn-primary" (click)="addNewCourseBtn()">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-circle-fill"
+          viewBox="0 0 16 16">
+          <path
+            d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v3h-3a.5.5 0 0 0 0 1h3v3a.5.5 0 0 0 1 0v-3h3a.5.5 0 0 0 0-1h-3v-3z" />
+        </svg>
+      </div>
+    </div>
+  </div>
+  
+  <style>
+    .hide {
+      display: none;
+    }
+  
+    .myDIV:hover+.hide {
+      display: block;
+      color: green;
+    }
+  </style>
+  
+  <div class="myDIV">
+    <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor" class="bi bi-question-square-fill"
+      viewBox="0 0 16 16">
+      <path
+        d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2H2zm3.496 6.033a.237.237 0 0 1-.24-.247C5.35 4.091 6.737 3.5 8.005 3.5c1.396 0 2.672.73 2.672 2.24 0 1.08-.635 1.594-1.244 2.057-.737.559-1.01.768-1.01 1.486v.105a.25.25 0 0 1-.25.25h-.81a.25.25 0 0 1-.25-.246l-.004-.217c-.038-.927.495-1.498 1.168-1.987.59-.444.965-.736.965-1.371 0-.825-.628-1.168-1.314-1.168-.803 0-1.253.478-1.342 1.134-.018.137-.128.25-.266.25h-.825zm2.325 6.443c-.584 0-1.009-.394-1.009-.927 0-.552.425-.94 1.01-.94.609 0 1.028.388 1.028.94 0 .533-.42.927-1.029.927z" />
+    </svg>
+    Help
+  </div>
+  <div class="hide">
+    This page allows you to Create, Update, Read and Delete a Equipment Types in the system.
+  </div>
+  
+
+  <div *ngIf="newEquipment_TypeClicked">
+    <div class="formWrapper">
+      <h2>Create Equipment Type</h2>
+      <form>
+        <div class="form-group name">
+          <label>Enter Equipment Type Description:</label>
+          <input type="text" 
+            class="form-control input" 
+            id="name" 
+            name="name" 
+            [(ngModel)]="model.EquipmentTypeDescription"
+            placeholder="Laptop">
+        </div>
+        <div class="submitBtnContainer">
+          <button type="submit" class="btn btn-success" (click)="addEquipment_Type()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+              class="bi bi-plus-circle-fill" viewBox="0 0 16 16">
+              <path
+                d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v3h-3a.5.5 0 0 0 0 1h3v3a.5.5 0 0 0 1 0v-3h3a.5.5 0 0 0 0-1h-3v-3z" />
+            </svg>
+            SAVE</button>
+        </div>
+      </form>
+    </div>
+  </div>
+  
+  <hr>
+  
+
+  <div class="search-hero container">
+    <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off"
+      placeholder="&#61442;  Start searching">
+  </div>
+  
+
+  <div class="tableWrapper">
+    <table class="table table-striped">
+      <thead>
+        <tr>
+          <th class="col">Equipment Type Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let item of equipment_type | filter:searchText; let i = index">
+          <td>{{item.equipmentTypeDescription}}</td>
+          <td>
+            <button class="btn btn-primary" (click)="editEquipment_Type(i)">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                class="bi bi-pencil-square" viewBox="0 0 16 16">
+                <path
+                  d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z" />
+                <path fill-rule="evenodd"
+                  d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z" />
+              </svg>
+            </button>
+            <button class="btn btn-danger" (click)="deleteEquipment_Type(item.EquipmentTypeId)">
+              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill"
+                viewBox="0 0 16 16">
+                <path
+                  d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1H2.5zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5zM8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5zm3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0z" />
+              </svg>
+            </button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  
+  
+  <div class="editEmployeeTitleContainer">
+    <div class="">Update Equipment Type</div>
+  </div>
+  
+  <form>
+    <div class="form-group name">
+      <label>Enter Equipment Type Description:</label>
+      <input type="text" 
+        class="form-control input" 
+        id="name" 
+        name="name" 
+        [(ngModel)]="model2.EquipmentTypeDescription"
+        placeholder="Laptop">
+    </div>
+    <button class="btn btn-success" type="submit" (click)="updateEquipment_Type()">
+      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square"
+        viewBox="0 0 16 16">
+        <path
+          d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z" />
+        <path fill-rule="evenodd"
+          d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z" />
+      </svg>
+      Update</button>
+  </form>
+  

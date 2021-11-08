@@ -1,0 +1,22 @@
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a>Course</a></li>
+    <li class="breadcrumb-item active" aria-current="page">Lesson</li>
+  </ol>
+</nav>
+
+<h1>Course Center - Lesson</h1>
+
+<div *ngFor="let item of lesson; let i = index">
+
+  <div class="card">
+    <div class="card-body">
+      <h5 class="card-title">{{item.lessonName}}</h5>
+      <p class="card-text">{{item.lessonDescription}}</p>
+      <a class="btn btn-primary" [routerLink]="['/take_learning_outcome', item.lessonID]">Lesson Outcome</a>
+    </div>
+  </div>
+
+  <p></p>
+
+</div>

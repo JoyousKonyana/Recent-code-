@@ -1,0 +1,19 @@
+<nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a>Course</a></li>
+        <li class="breadcrumb-item"><a>Lesson</a></li>
+        <li class="breadcrumb-item"><a>Lesson Outcome</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Lesson Content</li>
+      </ol>
+    </nav>
+
+<h1>Lesson Content</h1>
+
+<div *ngFor="let content of content; let i = index">
+      <div>
+            {{content.lessonContentDescription}}
+      <br/>
+      {{content.lessonContent1}}
+      </div>
+</div>
+
