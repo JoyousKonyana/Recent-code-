@@ -14,7 +14,9 @@ export class QuizService {
   httHeaders = new HttpHeaders().set('Content-Type', 'application/json');
 
   constructor(private http: HttpClient) { } 
-  userId: any = localStorage.getItem('user');
+  movies:any = localStorage.getItem("user");
+  moviesi:any     = JSON.parse(this.movies);
+  userId = this.moviesi['id'];
 
   //Quiz
   urlQuiz = 'https://localhost:44319/api/Quiz';

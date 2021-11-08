@@ -56,4 +56,9 @@ export class Equipment_QueryService {
     return this.http.put(`${this.url}/ResolveQuery`, resolve);
   }
 
+  url3 = 'https://localhost:44319/api/Equipment'; 
+  checkEquipment(data) {
+    return this.http.put(`${this.url3}/CheckEquipment/` + this.userId, data);
+  }
+
 } 

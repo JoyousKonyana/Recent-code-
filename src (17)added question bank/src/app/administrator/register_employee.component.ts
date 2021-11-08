@@ -227,6 +227,9 @@ export class Register_EmployeeComponent implements OnInit {
 
     this.model2.EmployeeJobTitle = this.registerEmployeeForm.get('employeeJobTitle')?.value;
 
+    console.log('Form: ', this.registerEmployeeForm.value);
+    console.log('Model2: ', this.model2);
+
     if (this.registerEmployeeForm.invalid) {
       this.alertService.error('Your Form is invalid');
       return;

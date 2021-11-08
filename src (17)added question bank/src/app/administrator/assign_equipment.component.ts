@@ -60,7 +60,7 @@ private loadAll() {
     .subscribe(
       onboarder => {
         this.onboarder = onboarder;
-        console.log(this.onboarder);
+        console.log('Onboarders: ', onboarder);
       },
       error => {
         this.alertService.error('Error, Data (Onboarder) was unsuccesfully retrieved');
@@ -87,15 +87,24 @@ private loadAll() {
     this.model3.EquipmentCheckOutDate = this.assignEquipmentForm.get('checkout')?.value;
     this.model3.EquipmentCheckOutCondition = this.assignEquipmentForm.get('condition')?.value;
 
+    console.log('Form: ', this.assignEquipmentForm.value);
+    console.log('Model3: ', this.model3);
+
     this.equipmentService.AssignEquipment(this.model3)
             .pipe(first())
             .subscribe(
                 data => {
                     this.alertService.success('Assign was successful', true);
+                    console.log('Data: ', data);
                 },
                 error => {
-                    this.alertService.error('Error, Assign was unsuccesful');
-                });
+                    if(error.status === 200) {
+                      this.alertService.success('Assign was successful', false);
+                    } else {
+                      this.alertService.error('Error, Assign was unsuccesful');
+                      console.log('Error: ', error);
+                    }
+                  });
   }
 
 }

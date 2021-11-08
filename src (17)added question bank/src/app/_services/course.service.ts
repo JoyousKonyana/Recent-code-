@@ -15,8 +15,10 @@ export class CourseService {
 
   //Joyous, please put the link of the API here
   url = 'https://localhost:44319/api/Course';
-  userId: any = localStorage.getItem('user');
-
+ //  userId: any = localStorage.getItem('user');
+ movies:any = localStorage.getItem("user");
+ moviesi:any     = JSON.parse(this.movies);
+ userId = this.moviesi['id'];
   constructor(private http: HttpClient) { }
 
   getAllCourse(): Observable<any> {
@@ -26,6 +28,8 @@ export class CourseService {
   getCourseById(id: number): Observable<any> {
     return this.http.get<any>(`${this.url}/GetCourseById/` + id);
   }
+
+ 
 
   delete(id: number) {
     return this.http.delete(`${this.url}/DeleteCourse/` + id + '/' + this.userId);

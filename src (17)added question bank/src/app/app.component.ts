@@ -59,8 +59,14 @@ export class AppComponent implements OnInit {
   }
 
   loadAll() {
-    this.model = localStorage.getItem('user');
+    // this.model = localStorage.getItem('user');
 
+    //changed to
+    var movies = localStorage.getItem("user");
+    movies     = JSON.parse(movies);
+    this.model = movies['id'];
+    console.log(movies['id']);
+    //changed to
     this.authenticationService.getUserById(this.model)
       .pipe(first())
       .subscribe(user => {
@@ -120,6 +126,7 @@ export class AppComponent implements OnInit {
     const returnUrl = this.route.snapshot.queryParams['returnUrl'] || '/login';
     localStorage.removeItem('SeesionUser');
     localStorage.removeItem('user');
+    localStorage.removeItem('token');
     this.router.navigateByUrl(returnUrl);
   }
 }

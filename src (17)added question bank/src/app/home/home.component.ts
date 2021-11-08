@@ -24,10 +24,16 @@ export class HomeComponent {
   model: any;
 
 
-
+ 
   ngOnInit() {
-    this.model = localStorage.getItem('user');
+    // this.model = localStorage.getItem('user');
 
+    var movies = localStorage.getItem("user");
+    movies     = JSON.parse(movies);
+    console.log(movies);
+    this.model = movies['id'];
+    
+   this.model = 
     // this.loading = true;
     this.authenticationService.getUserById(this.model).pipe(first()).subscribe(user => {
       this.user = user;

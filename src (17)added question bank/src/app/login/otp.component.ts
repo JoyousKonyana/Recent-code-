@@ -38,7 +38,12 @@ export class OTPComponent implements OnInit {
     ngOnInit() {
         this.otpForm;
 
-        this.model = localStorage.getItem('user');
+        // this.model = localStorage.getItem('user');
+        var movies = localStorage.getItem("user");
+        movies     = JSON.parse(movies);
+        this.model = movies['id'];
+        console.log(movies['id']);
+
     }
 
     otpForm = this.formBuilder.group({

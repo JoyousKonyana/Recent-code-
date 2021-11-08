@@ -12,8 +12,10 @@ export class Lesson_ContentService {
 
    //Joyous, please put the link of the API here
    url = 'https://localhost:44319/api/LessonContent';  
-   userId: any = localStorage.getItem('user');
-
+  //  userId: any = localStorage.getItem('user');
+  movies:any = localStorage.getItem("user");
+  moviesi:any     = JSON.parse(this.movies);
+  userId = this.moviesi['id'];
   constructor(private http: HttpClient) { }  
 
   getAllLesson_Content(): Observable<Lesson_Content[]> {  
