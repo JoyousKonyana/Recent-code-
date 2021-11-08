@@ -1,3 +1,4 @@
+import { submitQuiz } from './../_models/submitQuiz';
 import { QuizService } from './../_services/quiz.service';
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
@@ -19,10 +20,15 @@ export class QuizComponent implements OnInit {
   quiz: any;
   quizId: any;
 
+  storedAnswers: any;
+  storedAnswer: string;
+
   constructor(
     private modalService: ModalService,
     private _Activatedroute: ActivatedRoute,
     private router: Router,
+
+    private quizService: QuizService,
 
     private alertService: AlertService,
     private _manageCoursesService: ManageCoursesService,
@@ -32,10 +38,14 @@ export class QuizComponent implements OnInit {
   ) {
   }
 
+  token: any;
+
   ngOnInit() {
     this._Activatedroute.paramMap.subscribe(params => {
       this.quizId = params.get('id');
     });
+
+    this.token = localStorage.getItem('token');    
 
     this.getLessonOutcomeQuizzesFromServer();
   }
@@ -57,12 +67,28 @@ export class QuizComponent implements OnInit {
       });
   }
 
-  saveAnswer(index: number) {
+  model: submitQuiz = {
+    QuestionId: 0,
+    OptionId: ''
+  }
 
+  selected(index: number) {
+    this.model.QuestionId = index;
+    this.model.OptionId = this.storedAnswer;
+
+    this.storedAnswers.push(this.model)
   }
 
   submitQuiz() {
-
+    this.quizService.submitQuiz(1,this.token.onboarderId,this.quizId, this.storedAnswers)
+        .pipe(first())
+        .subscribe(
+          data => {
+            this.alertService.success('Creation was successful', true);
+          },
+          error => {
+            this.alertService.error('Error, Creation was unsuccesful');
+          });
   }
 
 }

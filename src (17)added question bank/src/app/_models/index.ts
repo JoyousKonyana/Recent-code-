@@ -1,5 +1,6 @@
 ﻿export * from './user';
 export * from './otp';
+export * from './submitQuiz';
 export * from './resetpassword';
 export * from './employee';
 export * from './onboarder';

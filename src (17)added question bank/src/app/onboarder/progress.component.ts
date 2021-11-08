@@ -32,14 +32,18 @@ export class ProgressComponent implements OnInit {
     ) {
     }
 
+    token: any;
+
     ngOnInit() {
+
+      this.token = localStorage.getItem('token');
 
       this._Activatedroute.paramMap.subscribe(params => { 
         this.courseId = params.get('id'); 
       });
 
       this.model.courseID = this.courseId;
-      this.model.onboarderID = 1;
+      this.model.onboarderID = this.token.onboarderId;
 
       this.onboarderService.generateCourseProgressReport(this.model)
       .pipe(first())
