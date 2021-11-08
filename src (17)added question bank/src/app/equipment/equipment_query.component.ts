@@ -1,3 +1,4 @@
+import { ResolveQuery } from './../_models/resolvequery';
 import { Query_StatusService } from './../_services/query_status.service';
 import { Component, OnInit, OnDestroy } from '@angular/core';
 import { Subscription } from 'rxjs';
@@ -12,6 +13,7 @@ import { EquipmentService, Equipment_QueryService, AlertService } from '../_serv
 })
 
 export class EquipmentQueryComponent implements OnInit {
+  queryStatusId: any;
 
   x!: any;
   searchText = '';
@@ -60,11 +62,9 @@ private loadAll() {
 
   model: any = {};
 
-  model2: EquipmentQuery = {
-      EquipmentId: 0,
-      OnboarderId: 0,
-      EquipmentQueryDescription: '',
-      EquipmentQueryDate: ''
+  model2: ResolveQuery = {
+    EquipmentQueryId: 0,
+    EquipmentQueryStatusId: ''
   }; 
 
   myValue = 0;
@@ -77,17 +77,18 @@ private loadAll() {
   Report_Query() {
     let editReport_QueryInfo = this.myValue;
 
-    this.model2.EquipmentId = this.x[editReport_QueryInfo].EquipmentId;
+    this.model2.EquipmentQueryId  = this.x[editReport_QueryInfo].EquipmentQueryId;
+    this.model2.EquipmentQueryStatusId = this.queryStatusId;
 
-    this.yService.create(this.model2)
+    this.yService.resolveQuery(this.model2)
             .pipe(first())
             .subscribe(
                 data => {
-                    this.alertService.success('Query was Reported was successfully', true);
+                    this.alertService.success('Query status was updated successfully', true);
                     this.loadAll()
                 },
                 error => {
-                    this.alertService.error('Error, Report was unsuccesful');
+                    this.alertService.error('Error, Query status was unsuccesfully updated');
                 });
 
     this.newReport_QueryClicked = !this.newReport_QueryClicked;
