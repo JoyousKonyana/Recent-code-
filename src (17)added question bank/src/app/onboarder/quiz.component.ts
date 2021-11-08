@@ -84,10 +84,11 @@ export class QuizComponent implements OnInit {
         .pipe(first())
         .subscribe(
           data => {
-            this.alertService.success('Creation was successful', true);
+            this.alertService.success('Quiz submitted', true);
+            this.router.navigate(['/take_course'])
           },
           error => {
-            this.alertService.error('Error, Creation was unsuccesful');
+            this.alertService.error('Error, Quiz not submitted');
           });
   }
 

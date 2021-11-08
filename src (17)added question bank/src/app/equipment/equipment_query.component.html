@@ -1,0 +1,68 @@
+<!-- <div class="AddEmployeeTitleContainer">
+    <div class="addEmployeeTitleContainer">
+      <div>
+        Manage Equipment Query
+      </div>
+    </div>
+    <div class="addEmployeeBtnContainer">
+    </div>
+    </div>
+    
+    <div *ngIf="newReport_QueryClicked">
+    <div class="formWrapper">
+      <h5>Query</h5>
+      <a class="btn btn-link" (click)="CloseReport_QueryBtn()">X</a>
+    <form>
+        <div class="form-group position">
+            <mat-radio-group 
+              class="answer-options-container"
+              [(ngModel)]="storedAnswer">
+              <mat-radio-button 
+                *ngFor="let query of query.answerOptions" 
+                (select)="selected(question.id)" 
+                [value]="query.equipmentQueryStatusId">
+                {{query.equipmentQueryDescription}}</mat-radio-button>
+            </mat-radio-group>
+        </div>
+    <button class="btn btn-success" type="submit" (click)="Report_Query()">Report Query</button>
+    </form>
+    </div>
+    </div>
+    
+    <hr>
+  
+  <div class="search-hero container">
+    <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off"
+      placeholder="&#61442;  Start searching">
+  </div>
+    
+    <div class="tableWrapper">
+    <table class="table table-striped">
+    <thead>
+      <tr>
+        <th class="col">Query</th>
+        <th class="col">Query Date</th>
+        <th class="col">Serial Number</th>
+        <th class="col">Equipment Type</th>
+        <th class="col">Equipment Brand</th>
+        <th class="col">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of x | filter:searchText; let i = index">
+        <td>{{item.equipmentQueryDescription}}</td>
+        <td>{{item.equipmentQueryDate}}</td>
+        <td>{{item.equipment.equipmentSerialNumber}}</td>
+        <td>{{item.equipment.equipmentType.equipmentTypeDescription}}</td>
+        <td>{{item.equipment.equipmentBrand.equipmentBrandDescription}}</td>
+        <td>
+        <div>
+          <label>Check Equipment: </label>
+          <input class="form-check-input" type="checkbox" id="checkboxNoLabel" value="" aria-label="...">
+        </div>
+        <button class="btn btn-danger" (click)="editReport_Query(i)">Resolve Query</button>
+        </td>
+      </tr>
+    </tbody>
+    </table>
+    </div> -->

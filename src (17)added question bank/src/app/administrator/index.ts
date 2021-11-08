@@ -9,5 +9,6 @@ export * from './ss_administrator.component';
  export * from './crud_employee.component';
  export * from './admindashboard.component';
  export * from './onboarder.component';
+ export * from './view_booking.component';
 
  export * from './departcharts';
